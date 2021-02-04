@@ -13,8 +13,8 @@
 I visited National Wetland Museum of China on Feb 4 to get some insights from settings in the real museum.
 
 ### the Structure of Wetland Ecosystem
-![Image of SpecimensWall](./field-trip/ecosystem.jpg)
+![Image of Ecosystem](./field-trip/ecosystem.jpeg)
 
 ### the Wall of Specimens
 ![Image of SpecimensWall](./field-trip/wall.jpg)
-![Image of SpecimensWall](./field-trip/wall2.jpg)
+![Image of SpecimensWall](./field-trip/wall2.jpeg)
