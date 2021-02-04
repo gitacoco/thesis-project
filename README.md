@@ -20,3 +20,6 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 ### the Wall of Specimens
 ![Image of SpecimensWall](./field-trip/wall.jpg)
 ![Image of SpecimensWall](./field-trip/wall2.jpeg)
+
+### the Miniature Replicas of the Species in the Representative Biosphere
+![Image of micro-landscape](./field-trip/micro-landscape.jpg)
