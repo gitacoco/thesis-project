@@ -11,6 +11,8 @@
 
 ## Field Trip
 I visited National Wetland Museum of China on Feb 4 to get some insights from settings in the real museum.
+![Image of Museum](./field-trip/museum1.jpeg)
+![Image of Museum](./field-trip/museum2.jpeg)
 
 ### the Structure of Wetland Ecosystem
 ![Image of Ecosystem](./field-trip/ecosystem.jpeg)
