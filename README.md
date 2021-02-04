@@ -27,3 +27,6 @@ A Micro-Landscape of the Tarim River Populus Euphratica Forest Wetland (China)
 
 A Micro-Landscape of the Bald Cypress Swamps (USA) with interactive tables
 ![Image of micro-landscape](./field-trip/micro-landscape2.jpg)
+
+### An Globe Installation with Interactive Tables of the Key Wetland Distribution
+![Image of globe](./field-trip/globe.jpg)
