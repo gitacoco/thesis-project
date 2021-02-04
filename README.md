@@ -22,4 +22,8 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 ![Image of SpecimensWall](./field-trip/wall2.jpeg)
 
 ### the Miniature Replicas of the Species in the Representative Biosphere
+A Micro-Landscape of the Tarim River Populus Euphratica Forest Wetland (China)
 ![Image of micro-landscape](./field-trip/micro-landscape.jpg)
+
+A Micro-Landscape of the Bald Cypress Swamps (USA) with interactive tables
+![Image of micro-landscape](./field-trip/micro-landscape2.jpg)
