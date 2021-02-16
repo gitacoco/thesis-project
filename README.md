@@ -3,7 +3,7 @@
 
  ## Research Question
 
-### Updated on Thu Feb 28
+### Updated on Thu Jan 28
 ![Image of Mindmap](./pics/zhibang_map.png)
 
 ### Concept Alternatives
@@ -31,3 +31,6 @@ I visited National Wetland Museum of China today to get some insights from setti
 
 ### A Globe Installation with Interactive Tables of the Key Wetland Distribution
 ![Image of globe](./field-trip/globe.jpg)
+
+### Updated on Tue Feb 17
+![Image of wire](./wireframe/storyboard.jpg)
