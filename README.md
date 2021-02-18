@@ -29,9 +29,6 @@ I visited National Wetland Museum of China today to get some insights from setti
 #### A Micro-Landscape of the Bald Cypress Swamps (USA) with interactive tables
 ![Image of micro-landscape](./field-trip/micro-landscape2.jpg)
 
-### A Globe Installation with Interactive Tables of the Key Wetland Distribution
-![Image of globe](./field-trip/globe.jpg)
-
 ### Storyboard and Wireframe: updated on Tue Feb 1
 ![Image of wire](./wireframe/storyboard.jpg)
 
