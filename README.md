@@ -35,7 +35,12 @@ I visited National Wetland Museum of China today to get some insights from setti
 ### Storyboard and Wireframe: Updated on Tue Feb 1
 ![Image of wire](./wireframe/storyboard.jpg)
 
-In-class Feedback (Thanks the support from Lee Kuczewski): 
+#### In-class Feedback (Thanks the support from Lee Kuczewski): 
 - Focus on the data driven visualization pieces — the other drivers (such as tools of Computer Vision and AR) — might be secondary in terms of scope (but could provide insights as well). =
 - It’s important to think about other personas such as the director of the museum — The director might have a different set of needs in terms of finding specific information on this app while giving a presentation to others (such as funders). 
 - The final question was around feasibility and focusing in on a place to start.
+- Sherry Manzar: Those birds clusters look like a great use case for the t-SNE technique discussed in the Seth Kranzler video!
+
+#### Resource
+- [Amazon Rekognition](https://aws.amazon.com/cn/rekognition/)
+- [MachineLearning_SethKranzler_Lecture](https://drive.google.com/file/d/1PqMxu4bEn8oqGDxb3NtvgrGZG4rdPEdE/view)
