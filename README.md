@@ -1,15 +1,16 @@
 # thesis-project
  This is a repo for Major Studio 2 class and its affiliated thesis project.
 
- ## Research Question
+## Research Question
 
-### The Mindmap: updated on Thu Jan 28
+### The Mindmap
+### updated on Thu Jan 28
 ![Image of Mindmap](./pics/zhibang_map.png)
 
-### Concept Alternatives
+#### Concept Alternatives
 1. Educational Data Interactive System in VR Environments
 
-## Field Trip on Feb 4 
+## The Field Trip on Feb 4 
 I visited National Wetland Museum of China today to get some insights from settings in the real museum.  
 ![Image of Museum](./field-trip/museum1.jpeg)
 ![Image of Museum](./field-trip/museum2.jpeg)
@@ -29,7 +30,8 @@ I visited National Wetland Museum of China today to get some insights from setti
 #### A Micro-Landscape of the Bald Cypress Swamps (USA) with interactive tables
 ![Image of micro-landscape](./field-trip/micro-landscape2.jpg)
 
-### Storyboard and Wireframe: updated on Tue Feb 1
+## Storyboard and Wireframe
+### Updated on Tue Feb 1
 ![Image of wire](./wireframe/storyboard.jpg)
 
 #### In-class Feedback (Thanks the support from Lee Kuczewski): 
