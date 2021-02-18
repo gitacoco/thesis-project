@@ -32,5 +32,10 @@ I visited National Wetland Museum of China today to get some insights from setti
 ### A Globe Installation with Interactive Tables of the Key Wetland Distribution
 ![Image of globe](./field-trip/globe.jpg)
 
-### Updated on Tue Feb 17
+### Storyboard and Wireframe: Updated on Tue Feb 1
 ![Image of wire](./wireframe/storyboard.jpg)
+
+In-class Feedback (Thanks the support from Lee Kuczewski): 
+- Focus on the data driven visualization pieces — the other drivers (such as tools of Computer Vision and AR) — might be secondary in terms of scope (but could provide insights as well). =
+- It’s important to think about other personas such as the director of the museum — The director might have a different set of needs in terms of finding specific information on this app while giving a presentation to others (such as funders). 
+- The final question was around feasibility and focusing in on a place to start.
