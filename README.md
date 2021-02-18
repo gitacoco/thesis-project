@@ -3,7 +3,7 @@
 
  ## Research Question
 
-### Updated on Thu Jan 28
+### The Mindmap: updated on Thu Jan 28
 ![Image of Mindmap](./pics/zhibang_map.png)
 
 ### Concept Alternatives
@@ -32,7 +32,7 @@ I visited National Wetland Museum of China today to get some insights from setti
 ### A Globe Installation with Interactive Tables of the Key Wetland Distribution
 ![Image of globe](./field-trip/globe.jpg)
 
-### Storyboard and Wireframe: Updated on Tue Feb 1
+### Storyboard and Wireframe: updated on Tue Feb 1
 ![Image of wire](./wireframe/storyboard.jpg)
 
 #### In-class Feedback (Thanks the support from Lee Kuczewski): 
