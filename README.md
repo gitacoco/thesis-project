@@ -43,3 +43,17 @@ I visited National Wetland Museum of China today to get some insights from setti
 #### Resource
 - [Amazon Rekognition](https://aws.amazon.com/cn/rekognition/)
 - [MachineLearning_SethKranzler_Lecture](https://drive.google.com/file/d/1PqMxu4bEn8oqGDxb3NtvgrGZG4rdPEdE/view)
+
+## Prototype
+### Updated on Tue Mar 2
+[Interactive one](https://www.figma.com/proto/6CiVh0Lop040n0WVDhEPIH/Major-Studio-1-Project-3?node-id=415%3A330&viewport=790%2C90%2C0.40976792573928833&scaling=min-zoom)
+### Screenshots
+![Image of prototype](./prototype/overview.png)
+![Image of prototype](./prototype/p1.jpg)
+![Image of prototype](./prototype/p2.jpg)
+![Image of prototype](./prototype/p3.jpg)
+![Image of prototype](./prototype/p4.jpg)
+![Image of prototype](./prototype/p5.jpg)
+![Image of prototype](./prototype/p6.jpg)
+![Image of prototype](./prototype/p6.1.jpg)
+![Image of prototype](./prototype/p7.jpg)
