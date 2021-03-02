@@ -46,7 +46,7 @@ I visited National Wetland Museum of China today to get some insights from setti
 
 ## Prototype
 ### Updated on Tue Mar 2
-[Interactive one](https://www.figma.com/proto/6CiVh0Lop040n0WVDhEPIH/Major-Studio-1-Project-3?node-id=415%3A330&viewport=790%2C90%2C0.40976792573928833&scaling=min-zoom)
+[Interactive one](https://www.figma.com/proto/6CiVh0Lop040n0WVDhEPIH/Major-Studio-1-Project-3?node-id=405%3A2102&viewport=790%2C90%2C0.40976792573928833&scaling=min-zoom)
 ### Screenshots
 ![Image of prototype](./prototype/overview.png)
 ![Image of prototype](./prototype/p1.jpg)
