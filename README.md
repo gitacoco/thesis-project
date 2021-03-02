@@ -57,3 +57,5 @@ I visited National Wetland Museum of China today to get some insights from setti
 ![Image of prototype](./prototype/p6.jpg)
 ![Image of prototype](./prototype/p6.1.jpg)
 ![Image of prototype](./prototype/p7.jpg)
+![Image of prototype](./prototype/p8.jpg)
+![Image of prototype](./prototype/p9.jpg)
