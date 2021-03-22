@@ -59,3 +59,16 @@ I visited National Wetland Museum of China today to get some insights from setti
 ![Image of prototype](./prototype/p7.jpg)
 ![Image of prototype](./prototype/p8.jpg)
 ![Image of prototype](./prototype/p9.jpg)
+### In-class Feedback
+#### Daniel's Response
+#### Chat Comments
+- Daniel Sauter: Dominant color research, looks like you and Luella need the same to implement.
+- David Malary: I really like the color aspect! I wonder if you can compare that with the habitats, to see if birds of similar colors live in similar habitats or not?
+- Justin Kraus: I appreciate the specificity of wetland birds. I think maybe a primer on what type of bird generally inhabits this habitat would provide relevant early context.
+- Serry Manzar: I really like how each interaction has a purpose and contributes to a clear story.
+- Lee Kuczewski: Beautiful interactivity, Zhibang! I love how clear this is regarding the ecosystem approach - with a focus on accessibility. Great use of the evolutionary tree as bringing the species together.
+- ### External Discussion
+- #### [Liwenhan Xie](https://shellywhen.github.io/), a PhD student at HKUST working on data visualization
+On the gallery view, a 'sort by' feature could be added. A user could change the order of the birds or reorganize them by using this feature. This feature provides the possibility of layout in mutiple dimensions, such as sorting by name, color, conservation status, an analogue layout of the physical setting and so on. In each dimension of sorting, a specific encoding strategy embedded in the stroke and corresponding lengend could be created.
+
+- #### [Yuning Chan](https://alienyuning.com/), a graduate student in IDE program at Royal College of Art
