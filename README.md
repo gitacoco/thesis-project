@@ -67,7 +67,7 @@ I visited National Wetland Museum of China today to get some insights from setti
 - Justin Kraus: I appreciate the specificity of wetland birds. I think maybe a primer on what type of bird generally inhabits this habitat would provide relevant early context.
 - Serry Manzar: I really like how each interaction has a purpose and contributes to a clear story.
 - Lee Kuczewski: Beautiful interactivity, Zhibang! I love how clear this is regarding the ecosystem approach - with a focus on accessibility. Great use of the evolutionary tree as bringing the species together.
-- ### External Discussion
+### External Discussion
 - #### [Liwenhan Xie](https://shellywhen.github.io/), a PhD student at HKUST working on data visualization
 On the gallery view, a 'sort by' feature could be added. A user could change the order of the birds or reorganize them by using this feature. This feature provides the possibility of layout in mutiple dimensions, such as sorting by name, color, conservation status, an analogue layout of the physical setting and so on. In each dimension of sorting, a specific encoding strategy embedded in the stroke and corresponding lengend could be created.
 
