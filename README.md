@@ -99,3 +99,4 @@ Yuning has a background in Environmental Science, and she focuses on the field o
 - [How museums are using immersive digital experiences (pre- and post-pandemic)](https://econsultancy.com/how-museums-are-using-immersive-digital-experiences/)
 - [the work Seb Chan has done at the Cooper Hewitt and the Australian Center for the Moving Image](https://sebchan.medium.com/)
 - [BLOGS FROM THE NATURAL HISTORY MUSEUM](https://naturalhistorymuseum.blog/category/digital-media-at-the-nhm/)
+- [the syllabi for Elaine Ayers’ classes](https://elaineayers.com/Work)
