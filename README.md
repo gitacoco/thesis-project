@@ -1,5 +1,7 @@
-# thesis-project
- This is a repo for Major Studio 2 class and its affiliated thesis project.
+# Connected Birds
+#### A low-cost data-driven framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy
+
+By Zhibang Jiang
 
 ## Research Question
 
