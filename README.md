@@ -1,5 +1,5 @@
 # Connected Birds
-#### A low-cost data-driven framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy
+### A low-cost data-driven framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy
 
 By Zhibang Jiang
 
