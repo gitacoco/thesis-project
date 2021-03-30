@@ -1,5 +1,5 @@
 # Connected Birds
-### A framework to expand museums' stories of displayed specimens through a digital-physical fusion strategy
+### A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy
 
 By Zhibang Jiang
 
