@@ -87,12 +87,37 @@ The last two screens about AR are extremely convincing certainly, in terms of ca
 - Justin Kraus: I appreciate the specificity of wetland birds. I think maybe a primer on what type of bird generally inhabits this habitat would provide relevant early context.
 - Serry Manzar: I really like how each interaction has a purpose and contributes to a clear story.
 - Lee Kuczewski: Beautiful interactivity, Zhibang! I love how clear this is regarding the ecosystem approach - with a focus on accessibility. Great use of the evolutionary tree as bringing the species together.
+  
 ### External Discussion
 - #### [Liwenhan Xie](https://shellywhen.github.io/), a PhD student at HKUST working on data visualization
     On the gallery view, a 'sort by' feature could be added. A user could change the order of the birds or reorganize them by using this feature. This feature provides the possibility of layout in multiple dimensions, such as sorting by name, color, conservation status, an analogue layout of the physical setting and so on. In each dimension of sorting, a specific encoding strategy embedded in the stroke and corresponding legends could be created.
 
 - #### [Yuning Chan](https://alienyuning.com/), a graduate student in the IDE program at Royal College of Art
     Yuning has a background in Environmental Science, and she focuses on the field of biodesign. She provides valuable suggestions from the perspective of living organisms and nature. First, she thinks the conversations could not only be technically but also a transformation of identities between humans and species/specimens. We could enable humans to observe and understand the world through the eyes/lens of a bird, traveling through different ecosystems. Also, she points that naïve analogies (Hofstadter et al. 2013) could be used to eliminate the barriers between people and data visualization and make the interface to be less like a 'Database'. One of the forms of naïve analogies is to imitate the bird relations, such as food chain and ecology relationships, through the interactivity of social media platforms in human society, which builds proximity and enhances comprehension via a familiar formula or language. Naïve analogies matter, because Yuning believes the step before "making things more accessible" is to spark people interests and encourage or motivate them to access it (make them want to do so).
+
+## Presentation on Apr 13, Mapping the field Class
+### Slides
+![Image of slides](./keynote/img/slides_Page_01.png)
+![Image of slides](./keynote/img/slides_Page_02.png)
+![Image of slides](./keynote/img/slides_Page_03.png)
+![Image of slides](./keynote/img/slides_Page_04.png)
+![Image of slides](./keynote/img/slides_Page_05.png)
+![Image of slides](./keynote/img/slides_Page_06.png)
+![Image of slides](./keynote/img/slides_Page_07.png)
+![Image of slides](./keynote/img/slides_Page_08.png)
+![Image of slides](./keynote/img/slides_Page_09.png)
+![Image of slides](./keynote/img/slides_Page_10.png)
+![Image of slides](./keynote/img/slides_Page_11.png)
+![Image of slides](./keynote/img/slides_Page_12.png)
+### Feedback
+#### Email feedback by Shannon Mattern
+What a beautiful slide show, Zhibang! It’s clear that a great deal of careful thought and interdisciplinary research — across data science, exhibition design, qualitative methods to study the *reception* of information visualization, etc —  informed your work. I love how your project aims to expand the “maps” of these collections in myriad dimensions: enhancing the ways metadata can map individual specimens and their collections; enhancing the ways visualizations can allow visitors *access* to that additional contextualizing information; and expanding the scope of institutions who can take advantage of such tools *without* requiring expensive infrastructure upgrades. While you stated up-front hat your project is “not an atlas,” there are so many “atlas-like” things that inform this work: it’s atlas-like in its presentation of multiple modes of expression / visualization in order to provide multiple modes of engagement with a theme / topic / specimen. What’s more your modeling of layers suggests both technical and rhetorical structures — from the layered “technical stack” that makes such data infrastructures possible, to the layers of information that visitors can “dig into” to satisfy their curiosity — that characterize maps, too. I also greatly appreciate the ethical commitment to accessibility and knowledge sharing that permeates your project. You shared some beautiful visualizations that manifested a lot of the critical concepts informing your work. I would’ve loved to hear more about how those “bridge layers” work — and what it means both methodologically and metaphorically to *bridge* in this project! 
+#### Chat Comments 
+- Shannon Mattern: I know you stated that you’re not making at “atlas,” Zhibang - but your’e incorporating so many rhetorical and epistemological principles of the atlas: deploying diverse strategies of mediation / argumentation in order to provide a prismatic overview / analysis of a subject. I also really appreciate the democratizing / accessibility mission behind Zhibang’s project
+- Cate Morley: Very cool, Zhibang. And beautiful graphic demonstrations!
+- Anna Gedal: Zhibang, it’s so nice to meet another student working in this space! I’ve worked for around 5 years, creating these types of experiences for museums. Few institutions create them on their own, they normally hire museum consulting firms with specialized skills to build them. The costs are high. Even a basic touchscreen kiosk can cost over $1M, so many institutions cannot afford it. More broadly, most institutions do not have the tech infrastructure to support tech. Christiane Paul writes a lot about this in her work with the Whitney (she’s in the Media Studies )
+- Sherry Manzar: This is such an amazing outlook into the questions around what a collection is and can be. Really well-done!
+- Oscar Fossum:	Everyone appreciates an interactive museum exhibition. I love being able to deep dive on a single presentation. Your work could provide “thick descriptions” to go deeper into the histories and connections between museum-things! Awesome, Zhibang!
 
 ## References
 - Hofstadter, Douglas R., and Emmanuel Sander. Surfaces and essences: Analogy as the fuel and fire of thinking. Basic Books, 2013.
