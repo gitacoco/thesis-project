@@ -19,15 +19,28 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [Slides](#slides)
     - [Feedback](#feedback)
   - [References](#references)
-    - [Critical Histories of Natural History (Museums), Cultures of Display](#critical-histories-of-natural-history-museums-cultures-of-display)
+    - [Histories of Natural History (Museums), Cultures of Display](#histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
     - [Museum Technique + DataVis](#museum-technique--datavis)
     - [Cognitive Learning](#cognitive-learning)
     - [Case Studies](#case-studies)
 - [Implementation](#implementation)
+  - [Pipeline](#pipeline)
+  - [Layered Interfaces](#layered-interfaces)
   - [The Gallery View](#the-gallery-view)
-    - [Overview](#overview)
-    - [Details-on-demand](#details-on-demand)
+    - [Macro Level: Overview](#macro-level-overview)
+      - [Design Review](#design-review)
+      - [Development Process](#development-process)
+      - [In-class Feedback](#in-class-feedback-2)
+    - [Micro Level: Details-on-demand](#micro-level-details-on-demand)
+      - [Design Review](#design-review-1)
+      - [Development Process](#development-process-1)
+      - [One-on-one Feedback](#one-on-one-feedback)
+  - [The Geography View](#the-geography-view)
+  - [The Taxonomy View](#the-taxonomy-view)
+  - [The Phylogeny View](#the-phylogeny-view)
+  - [The Treats & Actions View](#the-treats--actions-view)
+  - [Bridge Layer Demo (Recognition Components)](#bridge-layer-demo-recognition-components)
 <!-- /TOC -->
 
 ## Abstract 
@@ -142,7 +155,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
   - Oscar Fossum:	Everyone appreciates an interactive museum exhibition. I love being able to deep dive on a single presentation. Your work could provide “thick descriptions” to go deeper into the histories and connections between museum-things! Awesome, Zhibang!
 
 ### References
-#### Critical Histories of Natural History (Museums), Cultures of Display
+#### Histories of Natural History (Museums), Cultures of Display
 - Asma, Stephen T. Stuffed animals & pickled heads: The culture and evolution of natural history museums. Oxford University Press, USA, 2003.
 - Hooper-Greenhill, Eilean, ed. Museum, media, message. Routledge, 2013.
 - Turner, Hannah. Cataloguing Culture: Legacies of Colonialism in Museum Documentation. UBC Press, 2020.
@@ -170,6 +183,46 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [the syllabi for Elaine Ayers’ classes](https://elaineayers.com/Work)
 
 ## Implementation
+### Pipeline
+![pipeline](./pics/pipeline.png)
+### Layered Interfaces
+![layered_media](./pics/layered_media.png)
 ### The Gallery View
-#### Overview
-#### Details-on-demand
+The gallery view is a digital replication of the exhibits at a real museum, meaning the dataset is constructed based on those exhibits and the items in this Gallery View are exactly same as those.
+#### Macro Level: Overview
+**! Progress until Apr 8**
+##### Design Review
+![overview](./prototype/p1.jpg)
+##### Development Process
+![overview](./pics/imp_gallery.png)
+I built a sortable and filterable grid of items using [Shuffle.js](https://vestride.github.io/Shuffle/). The tentative filter dimension is the *Protection Class* (conservation status). And the planned *Sort By* dimensions would be:
+- Alphabet
+- Population (data deficient)
+- Feather Color
+- maybe the *Protection Class* (could be merged into *Sort By*)
+
+In addition, the ultimate appearance of items shoud be circles insdead of rectangles.
+
+##### In-class Feedback
+#### Micro Level: Details-on-demand
+**! Progress until Apr 15**
+In this step, my goal is to develop a clickable feature of each item - species. This feature would allow users to enter the detailed view of each species. When a user click a species in the gallery view, two actions would happen:
+- A panel will float from the right side of the screen.
+- The layout of the items will be transformed into non-hierarchical packed circles.
+
+##### Design Review
+![overview](./prototype/details-on-demand.png)
+
+##### Development Process
+In short, there are three challenges in this step: (1) build a force layout, (2) insert images in each node, (3) create a transition between the matrix and the force layouts, (4) attach `on` event listeners to the `circle` variable to trigger the panel.
+
+###### Build a force layout <!-- omit in toc --> 
+The non-hierarchical packed circles could be realized via [D3 Bubble Chart](https://observablehq.com/@d3/bubble-chart). 
+
+##### One-on-one Feedback
+
+### The Geography View
+### The Taxonomy View
+### The Phylogeny View
+### The Treats & Actions View
+### Bridge Layer Demo (Recognition Components)
