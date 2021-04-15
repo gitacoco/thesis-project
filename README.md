@@ -41,6 +41,10 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [The Phylogeny View](#the-phylogeny-view)
   - [The Treats & Actions View](#the-treats--actions-view)
   - [Bridge Layer Demo (Recognition Components)](#bridge-layer-demo-recognition-components)
+- [Branding](#branding)
+  - [Keynote Video](#keynote-video)
+  - [Landing Page](#landing-page)
+- [Written Thesis](#written-thesis)
 <!-- /TOC -->
 
 ## Abstract 
@@ -233,3 +237,9 @@ Towards these challenges, I found several cases could be helpful.
 ### The Phylogeny View
 ### The Treats & Actions View
 ### Bridge Layer Demo (Recognition Components)
+
+## Branding
+### Keynote Video
+### Landing Page
+
+## Written Thesis
