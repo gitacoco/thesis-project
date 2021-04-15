@@ -195,9 +195,12 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 The gallery view is a digital replication of the exhibits at a real museum, meaning the dataset is constructed based on those exhibits and the items in this Gallery View are exactly same as those.
 #### Macro Level: Overview
 
-**! Progress until Apr 8**
+**Progress until Apr 8**
 ##### Design Review
+This view utilizes the power of small multiples and provides vistors an opportunity to reorganize the static museum species through preset dimensions that could be color encoded in the stroke of the item, forming an augmentation of the in-person exhibits. 
+
 ![overview](./prototype/p1.jpg)
+
 ##### Development Process
 ![overview](./pics/imp_gallery.png)
 I built a sortable and filterable grid of items using [Shuffle.js](https://vestride.github.io/Shuffle/). The tentative filter dimension is the *Protection Class* (conservation status). And the planned *Sort By* dimensions would be:
@@ -211,7 +214,7 @@ In addition, the ultimate appearance of items shoud be circles insdead of rectan
 ##### In-class Feedback
 #### Micro Level: Details-on-demand
 
-**! Progress until Apr 15**
+**Progress until Apr 15**
 In this step, my goal is to develop a clickable feature of each item - species. This feature would allow users to enter the detailed view of each species. When a user click a species in the gallery view, two actions would happen:
 - A panel will float from the right side of the screen.
 - The layout of the items will be transformed into non-hierarchical packed circles.
@@ -220,16 +223,33 @@ In this step, my goal is to develop a clickable feature of each item - species. 
 ![overview](./prototype/details-on-demand.png)
 
 ##### Development Process
-In short, there are three challenges in this step: (1) build a force layout, (2) insert images in each node, (3) create a transition between the matrix and the force layouts, (4) attach `on` event listeners to the `circle` variable to trigger the panel.
+![Bubble](./pics/bubble.png)
 
-###### Related Cases and Resources <!-- omit in toc --> 
-Towards these challenges, I found several cases could be helpful. 
-1. The non-hierarchical packed circles could be realized via [D3 Bubble Chart](https://observablehq.com/@d3/bubble-chart). 
+In short, there are challenges in this step: 
+1. build a force layout
+2. insert images in each node
+3. create a transition between the overview and the force layouts
+4. attach `on` event listeners to the `circle` variable to trigger the panel.
+
+Towards these challenges, I found several cases and tutorials that could be helpful. 
+1. The non-hierarchical packed circles could be realized via [D3 Bubble Chart](https://observablehq.com/@d3/bubble-chart) and [D3 Force Module](https://github.com/d3/d3-force).
 2. [Forcing Functions: Inside D3.v4 forces and layout transitions](https://hi.stamen.com/forcing-functions-inside-d3-v4-forces-and-layout-transitions-f3e89ee02d12)
 3. [Create a Node Network Graph with D3.js](https://sylhare.github.io/2020/05/21/Node-network-graph-d3.html)
 4. [How to Make Interactive Bubble Charts in D3.js](https://www.webtips.dev/how-to-make-interactive-bubble-charts-in-d3-js)
 5. [Fun with D3js: Data Visualization Eye Candy + Streaming JSON](https://www.pubnub.com/blog/fun-with-d3js-data-visualization-eye-candy-with-streaming-json/)
+6. [major-studio-1-fa20/lab06_images/](https://github.com/readyletsgo/major-studio-1-fa20/tree/master/lab06_images)
 
+###### Notes in process <!-- omit in toc --> 
+1. [Data binding after v5](https://www.createwithdata.com/d3-has-just-got-easier/). One point of confusion is D3’s approach to data binding (i.e. keeping an array of data in sync with HTML or SVG elements). Before version 5 the functions `.enter()` and `.exit()` were used to bind data. However version 5 introduces a new function `.join()`:
+    ```
+    var myData = [ 10, 40, 30, 50, 20 ];
+
+    d3.select('.container')
+    .selectAll('circle')
+    .data(myData)
+    .join('circle')
+    .attr('r', function(d) { return d; });
+    ```
 ##### One-on-one Feedback
 
 ### The Geography View
@@ -243,3 +263,23 @@ Towards these challenges, I found several cases could be helpful.
 ### Landing Page
 
 ## Written Thesis
+<!-- ## Self-exploring Learning Pathway of D3.js
+### Fundamentals of SVG and JavaScript for DataViz 
+This is a [short course]((https://learn.createwithdata.com/courses/html-svg-css-and-javascript-for-data-visualisation/)) to introduce the web languages HTML, SVG, CSS and JavaScript. Each of these is a requirement if you wish to build data visualizations on the web using libraries such as D3, Leaflet and Mapbox. 
+#### SVG
+- [ ] SVG
+- [ ] SVG Transforms
+#### JavaScript
+- [x] JavaScript
+- [x] JavaScript variables
+- [x] JavaScript data types
+- [x] JavaScript arrays
+- [x] JavaScript objects
+- [ ] JavaScript operators
+- [ ] JavaScript conditionals
+- [ ] JavaScript iteration
+- [ ] JavaScript functions
+- [ ] JavaScript functions (advanced)
+
+#### D3.js Resources
+- https://www.d3-graph-gallery.com/ -->
