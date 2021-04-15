@@ -190,6 +190,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 ### The Gallery View
 The gallery view is a digital replication of the exhibits at a real museum, meaning the dataset is constructed based on those exhibits and the items in this Gallery View are exactly same as those.
 #### Macro Level: Overview
+
 **! Progress until Apr 8**
 ##### Design Review
 ![overview](./prototype/p1.jpg)
@@ -205,6 +206,7 @@ In addition, the ultimate appearance of items shoud be circles insdead of rectan
 
 ##### In-class Feedback
 #### Micro Level: Details-on-demand
+
 **! Progress until Apr 15**
 In this step, my goal is to develop a clickable feature of each item - species. This feature would allow users to enter the detailed view of each species. When a user click a species in the gallery view, two actions would happen:
 - A panel will float from the right side of the screen.
@@ -216,8 +218,13 @@ In this step, my goal is to develop a clickable feature of each item - species. 
 ##### Development Process
 In short, there are three challenges in this step: (1) build a force layout, (2) insert images in each node, (3) create a transition between the matrix and the force layouts, (4) attach `on` event listeners to the `circle` variable to trigger the panel.
 
-###### Build a force layout <!-- omit in toc --> 
-The non-hierarchical packed circles could be realized via [D3 Bubble Chart](https://observablehq.com/@d3/bubble-chart). 
+###### Related Cases and Resources <!-- omit in toc --> 
+Towards these challenges, I found several cases could be helpful. 
+1. The non-hierarchical packed circles could be realized via [D3 Bubble Chart](https://observablehq.com/@d3/bubble-chart). 
+2. [Forcing Functions: Inside D3.v4 forces and layout transitions](https://hi.stamen.com/forcing-functions-inside-d3-v4-forces-and-layout-transitions-f3e89ee02d12)
+3. [Create a Node Network Graph with D3.js](https://sylhare.github.io/2020/05/21/Node-network-graph-d3.html)
+4. [How to Make Interactive Bubble Charts in D3.js](https://www.webtips.dev/how-to-make-interactive-bubble-charts-in-d3-js)
+5. [Fun with D3js: Data Visualization Eye Candy + Streaming JSON](https://www.pubnub.com/blog/fun-with-d3js-data-visualization-eye-candy-with-streaming-json/)
 
 ##### One-on-one Feedback
 
