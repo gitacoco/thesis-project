@@ -23,8 +23,11 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [The History of Museum Technology](#the-history-of-museum-technology)
     - [Museum Technique + DataVis](#museum-technique--datavis)
     - [Cognitive Learning](#cognitive-learning)
-  - [Case Studies](#case-studies)
+    - [Case Studies](#case-studies)
 - [Implementation](#implementation)
+  - [The Gallery View](#the-gallery-view)
+    - [Overview](#overview)
+    - [Details-on-demand](#details-on-demand)
 <!-- /TOC -->
 
 ## Abstract 
@@ -155,7 +158,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 #### Cognitive Learning
 - Hofstadter, Douglas R., and Emmanuel Sander. Surfaces and essences: Analogy as the fuel and fire of thinking. Basic Books, 2013.
 
-### Case Studies
+#### Case Studies
 - [HEADHUNT, National Portrait Gallery, Australia](https://www.portrait.gov.au/content/headhunt)
 - [SMARTIFY: Explore a world of art and culture](https://smartify.org/)
 - [Lessons in bringing birds to life: an Augmented Reality experiment at the Museum of Natural History](https://medium.com/neeeu/lessons-in-bringing-birds-to-life-an-augmented-reality-experiment-at-the-museum-of-natural-history-21d2855c4c68)
@@ -167,3 +170,6 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [the syllabi for Elaine Ayers’ classes](https://elaineayers.com/Work)
 
 ## Implementation
+### The Gallery View
+#### Overview
+#### Details-on-demand
