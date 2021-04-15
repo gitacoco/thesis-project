@@ -1,6 +1,6 @@
 # Connected Birds <!-- omit in toc --> 
 ### A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy <!-- omit in toc --> 
-By [Zhibang Jiang](https://zhibang.design) | View Live Project | Written Thesis | Parsons 2021 Data Visualization
+By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis | Parsons 2021 Data Visualization
 
 ## Table of Contents <!-- omit in toc --> 
 <!-- TOC -->
