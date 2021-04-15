@@ -8,16 +8,16 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 - [Preview](#preview)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
-  - [Field Trip](#field-trip)
-  - [Storyboard and Wireframe](#storyboard-and-wireframe)
+  - [Field Trip (Feb 4)](#field-trip-feb-4)
+  - [Storyboard and Wireframe (Feb 18)](#storyboard-and-wireframe-feb-18)
     - [In-class Feedback](#in-class-feedback)
   - [Prototype](#prototype)
-    - [Screenshots(Tue Mar 2)](#screenshotstue-mar-2)
+    - [Screenshots (Mar 2)](#screenshots-mar-2)
     - [In-class Feedback](#in-class-feedback-1)
     - [External Discussion](#external-discussion)
-  - [The Whole Story](#the-whole-story)
+  - [The Whole Story (Apr 13)](#the-whole-story-apr-13)
     - [Slides](#slides)
-    - [In-class Feedback](#in-class-feedback-2)
+    - [Feedback](#feedback)
   - [References](#references)
     - [Critical Histories of Natural History (Museums), Cultures of Display](#critical-histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
@@ -38,7 +38,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 updated on Thu Jan 28
 ![Image of Mindmap](./pics/zhibang_map.png)
 
-### Field Trip
+### Field Trip (Feb 4)
 I visited National Wetland Museum of China on Feb 4 to get some insights from settings in the real museum.
 
 **The Museum Overview**
@@ -62,8 +62,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - A Micro-Landscape of the Bald Cypress Swamps (USA) with interactive tables
 ![Image of micro-landscape](./field-trip/micro-landscape2.jpg)
 
-### Storyboard and Wireframe
-Updated on Tue Feb 1
+### Storyboard and Wireframe (Feb 18)
 ![Image of wire](./wireframe/storyboard.jpg)
 
 #### In-class Feedback
@@ -76,7 +75,7 @@ Updated on Tue Feb 1
   - [MachineLearning_SethKranzler_Lecture](https://drive.google.com/file/d/1PqMxu4bEn8oqGDxb3NtvgrGZG4rdPEdE/view)
 
 ### Prototype
-#### Screenshots(Tue Mar 2)
+#### Screenshots (Mar 2)
 [Interactive Prototype Please Click Here](https://www.figma.com/proto/6CiVh0Lop040n0WVDhEPIH/Major-Studio-1-Project-3?node-id=405%3A2102&viewport=790%2C90%2C0.40976792573928833&scaling=min-zoom)
 
 ![Image of prototype](./prototype/overview.png)
@@ -121,10 +120,18 @@ Updated on Tue Feb 1
   
     Yuning has a background in Environmental Science, and she focuses on the field of biodesign. She provides valuable suggestions from the perspective of living organisms and nature. First, she thinks the conversations could not only be technically but also a transformation of identities between humans and species/specimens. We could enable humans to observe and understand the world through the eyes/lens of a bird, traveling through different ecosystems. Also, she points that naïve analogies (Hofstadter et al. 2013) could be used to eliminate the barriers between people and data visualization and make the interface to be less like a 'Database'. One of the forms of naïve analogies is to imitate the bird relations, such as food chain and ecology relationships, through the interactivity of social media platforms in human society, which builds proximity and enhances comprehension via a familiar formula or language. Naïve analogies matter, because Yuning believes the step before "making things more accessible" is to spark people interests and encourage or motivate them to access it (make them want to do so).
 
-### The Whole Story
+### The Whole Story (Apr 13)
 #### Slides
-![Image of slides](./keynote/img/slides_Page_01.png)
-#### In-class Feedback
+|   |   |
+:-------------------------:|:-------------------------:
+![Image of slides](./keynote/img/slides_Page_01.png) | ![Image of slides](./keynote/img/slides_Page_02.png)
+![Image of slides](./keynote/img/slides_Page_03.png) | ![Image of slides](./keynote/img/slides_Page_04.png)
+![Image of slides](./keynote/img/slides_Page_05.png) | ![Image of slides](./keynote/img/slides_Page_06.png)
+![Image of slides](./keynote/img/slides_Page_07.png) | ![Image of slides](./keynote/img/slides_Page_08.png)
+![Image of slides](./keynote/img/slides_Page_09.png) | ![Image of slides](./keynote/img/slides_Page_10.png)
+![Image of slides](./keynote/img/slides_Page_11.png) | ![Image of slides](./keynote/img/slides_Page_12.png)
+
+#### Feedback
 - **Shannon Mattern**
 
     What a beautiful slide show, Zhibang! It’s clear that a great deal of careful thought and interdisciplinary research — across data science, exhibition design, qualitative methods to study the *reception* of information visualization, etc —  informed your work. I love how your project aims to expand the “maps” of these collections in myriad dimensions: enhancing the ways metadata can map individual specimens and their collections; enhancing the ways visualizations can allow visitors *access* to that additional contextualizing information; and expanding the scope of institutions who can take advantage of such tools *without* requiring expensive infrastructure upgrades. While you stated up-front hat your project is “not an atlas,” there are so many “atlas-like” things that inform this work: it’s atlas-like in its presentation of multiple modes of expression / visualization in order to provide multiple modes of engagement with a theme / topic / specimen. What’s more your modeling of layers suggests both technical and rhetorical structures — from the layered “technical stack” that makes such data infrastructures possible, to the layers of information that visitors can “dig into” to satisfy their curiosity — that characterize maps, too. I also greatly appreciate the ethical commitment to accessibility and knowledge sharing that permeates your project. You shared some beautiful visualizations that manifested a lot of the critical concepts informing your work. I would’ve loved to hear more about how those “bridge layers” work — and what it means both methodologically and metaphorically to *bridge* in this project! 
