@@ -98,17 +98,6 @@ The last two screens about AR are extremely convincing certainly, in terms of ca
 ## Presentation on Apr 13, Mapping the field Class
 ### Slides
 ![Image of slides](./keynote/img/slides_Page_01.png)
-![Image of slides](./keynote/img/slides_Page_02.png)
-![Image of slides](./keynote/img/slides_Page_03.png)
-![Image of slides](./keynote/img/slides_Page_04.png)
-![Image of slides](./keynote/img/slides_Page_05.png)
-![Image of slides](./keynote/img/slides_Page_06.png)
-![Image of slides](./keynote/img/slides_Page_07.png)
-![Image of slides](./keynote/img/slides_Page_08.png)
-![Image of slides](./keynote/img/slides_Page_09.png)
-![Image of slides](./keynote/img/slides_Page_10.png)
-![Image of slides](./keynote/img/slides_Page_11.png)
-![Image of slides](./keynote/img/slides_Page_12.png)
 ### Feedback
 #### Email feedback by Shannon Mattern
 What a beautiful slide show, Zhibang! It’s clear that a great deal of careful thought and interdisciplinary research — across data science, exhibition design, qualitative methods to study the *reception* of information visualization, etc —  informed your work. I love how your project aims to expand the “maps” of these collections in myriad dimensions: enhancing the ways metadata can map individual specimens and their collections; enhancing the ways visualizations can allow visitors *access* to that additional contextualizing information; and expanding the scope of institutions who can take advantage of such tools *without* requiring expensive infrastructure upgrades. While you stated up-front hat your project is “not an atlas,” there are so many “atlas-like” things that inform this work: it’s atlas-like in its presentation of multiple modes of expression / visualization in order to provide multiple modes of engagement with a theme / topic / specimen. What’s more your modeling of layers suggests both technical and rhetorical structures — from the layered “technical stack” that makes such data infrastructures possible, to the layers of information that visitors can “dig into” to satisfy their curiosity — that characterize maps, too. I also greatly appreciate the ethical commitment to accessibility and knowledge sharing that permeates your project. You shared some beautiful visualizations that manifested a lot of the critical concepts informing your work. I would’ve loved to hear more about how those “bridge layers” work — and what it means both methodologically and metaphorically to *bridge* in this project! 
