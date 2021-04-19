@@ -1,0 +1,10 @@
+# ignore the data create course directory
+d3-start-to-finish-code/
+
+# ignore the keynote file
+keynote/keynote_Apr14.key
+keynote/layering.psd
+
+# ignore test implementation file
+bubble-chart/
+connected_species/

@@ -263,23 +263,3 @@ Towards these challenges, I found several cases and tutorials that could be help
 ### Landing Page
 
 ## Written Thesis
-<!-- ## Self-exploring Learning Pathway of D3.js
-### Fundamentals of SVG and JavaScript for DataViz 
-This is a [short course]((https://learn.createwithdata.com/courses/html-svg-css-and-javascript-for-data-visualisation/)) to introduce the web languages HTML, SVG, CSS and JavaScript. Each of these is a requirement if you wish to build data visualizations on the web using libraries such as D3, Leaflet and Mapbox. 
-#### SVG
-- [ ] SVG
-- [ ] SVG Transforms
-#### JavaScript
-- [x] JavaScript
-- [x] JavaScript variables
-- [x] JavaScript data types
-- [x] JavaScript arrays
-- [x] JavaScript objects
-- [ ] JavaScript operators
-- [ ] JavaScript conditionals
-- [ ] JavaScript iteration
-- [ ] JavaScript functions
-- [ ] JavaScript functions (advanced)
-
-#### D3.js Resources
-- https://www.d3-graph-gallery.com/ -->
