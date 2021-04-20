@@ -36,15 +36,7 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
       - [Design Review](#design-review-1)
       - [Development Process](#development-process-1)
       - [One-on-one Feedback](#one-on-one-feedback)
-  - [The Geography View](#the-geography-view)
-  - [The Taxonomy View](#the-taxonomy-view)
-  - [The Phylogeny View](#the-phylogeny-view)
-  - [The Treats & Actions View](#the-treats--actions-view)
-  - [Bridge Layer Demo (Recognition Components)](#bridge-layer-demo-recognition-components)
-- [Branding](#branding)
-  - [Keynote Video](#keynote-video)
-  - [Landing Page](#landing-page)
-- [Written Thesis](#written-thesis)
+      - [Next Steps Apr 20](#next-steps-apr-20)
 <!-- /TOC -->
 
 ## Abstract 
@@ -224,7 +216,7 @@ In this step, my goal is to develop a clickable feature of each item - species. 
 
 ##### Development Process
 ![Bubble](./pics/bubble.png)
-
+<!-- 
 In short, there are challenges in this step: 
 1. build a force layout
 2. insert images in each node
@@ -237,29 +229,29 @@ Towards these challenges, I found several cases and tutorials that could be help
 3. [Create a Node Network Graph with D3.js](https://sylhare.github.io/2020/05/21/Node-network-graph-d3.html)
 4. [How to Make Interactive Bubble Charts in D3.js](https://www.webtips.dev/how-to-make-interactive-bubble-charts-in-d3-js)
 5. [Fun with D3js: Data Visualization Eye Candy + Streaming JSON](https://www.pubnub.com/blog/fun-with-d3js-data-visualization-eye-candy-with-streaming-json/)
-6. [major-studio-1-fa20/lab06_images/](https://github.com/readyletsgo/major-studio-1-fa20/tree/master/lab06_images)
+6. [major-studio-1-fa20/lab06_images/](https://github.com/readyletsgo/major-studio-1-fa20/tree/master/lab06_images) -->
 
 ###### Notes in process <!-- omit in toc --> 
-1. [Data binding after v5](https://www.createwithdata.com/d3-has-just-got-easier/). One point of confusion is D3’s approach to data binding (i.e. keeping an array of data in sync with HTML or SVG elements). Before version 5 the functions `.enter()` and `.exit()` were used to bind data. However version 5 introduces a new function `.join()`:
-    ```
-    var myData = [ 10, 40, 30, 50, 20 ];
+1. [Data binding after v5](https://www.createwithdata.com/d3-has-just-got-easier/). One point of confusion is D3’s approach to data binding (i.e. keeping an array of data in sync with HTML or SVG elements). Before version 5 the functions `.enter()` and `.exit()` were used to bind data. However version 5 introduces a new function `.join()`.
 
-    d3.select('.container')
-    .selectAll('circle')
-    .data(myData)
-    .join('circle')
-    .attr('r', function(d) { return d; });
-    ```
 ##### One-on-one Feedback
+##### Next Steps Apr 20
+1. Macro-level views
+1.1 Geo range View **[< Next Tue]**
+1.2 Color-sorting View **[< This Thu]**
+1.3 Taxonomy View **[< This Fri]**
+1.4 Evolution Tree: Phylogeny View **[< Next Mon]**
+1.5 Threats & Actions: Parallel Coordinates View **[< This Sun]**
+2. Details-on-Demand views (popup for individual bird) **[< This Fri]**
+3. Event handling and Interaction **[< This Sat]**
+4. State management & Data manipulation (Sort) **[< This Sat]**
+5. Add Transitions to circles **[< This Sat]**
+6. Recognition component (Mock up)
+7. Styling
 
-### The Geography View
-### The Taxonomy View
-### The Phylogeny View
-### The Treats & Actions View
-### Bridge Layer Demo (Recognition Components)
-
-## Branding
+<!-- ## Branding
 ### Keynote Video
 ### Landing Page
 
-## Written Thesis
+## Written Thesis -->
+
