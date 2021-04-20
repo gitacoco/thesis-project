@@ -237,11 +237,11 @@ Towards these challenges, I found several cases and tutorials that could be help
 ##### One-on-one Feedback
 ##### Next Steps Apr 20
 1. Macro-level views
-1.1 Geo range View **[< Next Tue]**
-1.2 Color-sorting View **[< This Thu]**
-1.3 Taxonomy View **[< This Fri]**
-1.4 Evolution Tree: Phylogeny View **[< Next Mon]**
-1.5 Threats & Actions: Parallel Coordinates View **[< This Sun]**
+  1.1 Geo range View **[< Next Tue]**
+  1.2 Color-sorting View **[< This Thu]**
+  1.3 Taxonomy View **[< This Fri]**
+  1.4 Evolution Tree: Phylogeny View **[< Next Mon]**
+  1.5 Threats & Actions: Parallel Coordinates View **[< This Sun]**
 2. Details-on-Demand views (popup for individual bird) **[< This Fri]**
 3. Event handling and Interaction **[< This Sat]**
 4. State management & Data manipulation (Sort) **[< This Sat]**
