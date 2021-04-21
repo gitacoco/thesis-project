@@ -33,7 +33,7 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 - [ ] Visual styling
 - [ ] Keynote Video
 
-## Feedbacks <!-- omit in toc --> 
+## Feedback <!-- omit in toc --> 
 - Jan 28: [In-class Feedback for Research Question*](#in-class-feedback)
 - Feb 18: [In-class Feedback for Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
 - Mar 02: [In-class Feedback for Prototypes](#in-class-feedback-1)
