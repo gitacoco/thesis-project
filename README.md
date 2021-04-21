@@ -2,19 +2,64 @@
 ### A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy <!-- omit in toc --> 
 By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis | Parsons 2021 Data Visualization
 
+## To-do List <!-- omit in toc --> 
+- [ ] Gallery View **[< This Fri]**
+   - [x] List of the items
+   - [ ] Responsive Grid Layout
+   - [ ] Name of the items
+   - [ ] Sort by dimensions
+     - [ ]  Color encoding in the stroke
+- [ ] Details-on-Demand view **[< This Sat]**
+   - [ ] Popup for individual species
+     - [ ] Data construction and display strategy
+     - [ ] multi-modal: voice of birds
+   - [ ] The modality for entering a secondary view
+   - [ ] state lock of selection when views change
+- [ ] Macro-level views
+   - [ ] Geo range View **[< Next Tue]**
+     - [ ] Need more design on details
+   - [ ] Color-sorting View **[< This Sun]**
+     - [ ] Need more design on details
+   - [ ] Taxonomy View **[< This Fri]**
+     - [ ] Need more thoughts on interaction design
+   - [ ] Evolution Tree: Phylogeny View **[< Next Mon]**
+     - [ ] Need more thoughts on Naive Nnalogy
+   - [ ] Threats & Actions: Parallel Coordinates View **[< This Sun]**
+     - [ ] Need data construction
+- [ ] Add Transitions to circles **[< This Sun]**
+- [ ] Recognition component [1 of 2 options]
+   - [ ] Video mock up
+   - [ ] Webpage mock up: iframe page with panorama background
+- [ ] Visual styling
+- [ ] Keynote Video
+
+## Feedbacks <!-- omit in toc --> 
+- Jan 28: [In-class Feedback for Research Question*](#in-class-feedback)
+- Feb 18: [In-class Feedback for Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
+- Mar 02: [In-class Feedback for Prototypes](#in-class-feedback-1)
+- Mar 10 & 14: [External Feedback for Prototypes](#external-discussion)
+- Mar 30: [Indivisual Meeting Feedback for Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
+- Apr 13: [External Feedback for the Design Solution](#feedback)
+- Apr 8: [In-class Feedback for Development Process](#in-class-feedback-2)
+- Apr 15: [Indivisual Meeting Feedback for Development Process*](#in-class-feedback-3)
+- Apr 20: [Guest Feedback for Development Process](#guest-feedback)
+- May 04: Indivisual Meeting Feedback Final Presentation [incoming]
+
 ## Table of Contents <!-- omit in toc --> 
 <!-- TOC -->
 - [Abstract](#abstract)
 - [Preview](#preview)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
+    - [In-class feedback](#in-class-feedback)
   - [Field Trip (Feb 4)](#field-trip-feb-4)
   - [Storyboard and Wireframe (Feb 18)](#storyboard-and-wireframe-feb-18)
-    - [In-class Feedback](#in-class-feedback)
+    - [In-class Feedback](#in-class-feedback-1)
   - [Prototype](#prototype)
     - [Screenshots (Mar 2)](#screenshots-mar-2)
-    - [In-class Feedback](#in-class-feedback-1)
+    - [In-class Feedback](#in-class-feedback-2)
     - [External Discussion](#external-discussion)
+    - [Indivisual Meeting Feedback for Design Refinement](#indivisual-meeting-feedback-for-design-refinement)
   - [The Whole Story (Apr 13)](#the-whole-story-apr-13)
     - [Slides](#slides)
     - [Feedback](#feedback)
@@ -31,12 +76,12 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [Macro Level: Overview](#macro-level-overview)
       - [Design Review](#design-review)
       - [Development Process](#development-process)
-      - [In-class Feedback](#in-class-feedback-2)
+      - [In-class Feedback](#in-class-feedback-3)
     - [Micro Level: Details-on-demand](#micro-level-details-on-demand)
       - [Design Review](#design-review-1)
       - [Development Process](#development-process-1)
       - [One-on-one Feedback](#one-on-one-feedback)
-      - [Next Steps Apr 20](#next-steps-apr-20)
+      - [Guest Feedback](#guest-feedback)
 <!-- /TOC -->
 
 ## Abstract 
@@ -49,6 +94,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 ### Brainstorming and Research Question
 updated on Thu Jan 28
 ![Image of Mindmap](./pics/zhibang_map.png)
+#### In-class feedback
 
 ### Field Trip (Feb 4)
 I visited National Wetland Museum of China on Feb 4 to get some insights from settings in the real museum.
@@ -128,6 +174,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
   
     Yuning has a background in Environmental Science, and she focuses on the field of biodesign. She provides valuable suggestions from the perspective of living organisms and nature. First, she thinks the conversations could not only be technically but also a transformation of identities between humans and species/specimens. We could enable humans to observe and understand the world through the eyes/lens of a bird, traveling through different ecosystems. Also, she points that naïve analogies (Hofstadter et al. 2013) could be used to eliminate the barriers between people and data visualization and make the interface to be less like a 'Database'. One of the forms of naïve analogies is to imitate the bird relations, such as food chain and ecology relationships, through the interactivity of social media platforms in human society, which builds proximity and enhances comprehension via a familiar formula or language. Naïve analogies matter, because Yuning believes the step before "making things more accessible" is to spark people interests and encourage or motivate them to access it (make them want to do so).
 
+#### Indivisual Meeting Feedback for Design Refinement
 ### The Whole Story (Apr 13)
 #### Slides
 |   |   |
@@ -231,24 +278,16 @@ Towards these challenges, I found several cases and tutorials that could be help
 5. [Fun with D3js: Data Visualization Eye Candy + Streaming JSON](https://www.pubnub.com/blog/fun-with-d3js-data-visualization-eye-candy-with-streaming-json/)
 6. [major-studio-1-fa20/lab06_images/](https://github.com/readyletsgo/major-studio-1-fa20/tree/master/lab06_images) -->
 
+
 ###### Notes in process <!-- omit in toc --> 
-1. [Data binding after v5](https://www.createwithdata.com/d3-has-just-got-easier/). One point of confusion is D3’s approach to data binding (i.e. keeping an array of data in sync with HTML or SVG elements). Before version 5 the functions `.enter()` and `.exit()` were used to bind data. However version 5 introduces a new function `.join()`.
+1. [Data binding after v5](https://www.createwithdata.com/d3-has-just-got-easier/). 
 
 ##### One-on-one Feedback
-##### Next Steps Apr 20
-1. Macro-level views
-  1.1 Geo range View **[< Next Tue]**
-  1.2 Color-sorting View **[< This Thu]**
-  1.3 Taxonomy View **[< This Fri]**
-  1.4 Evolution Tree: Phylogeny View **[< Next Mon]**
-  1.5 Threats & Actions: Parallel Coordinates View **[< This Sun]**
-2. Details-on-Demand views (popup for individual bird) **[< This Fri]**
-3. Event handling and Interaction **[< This Sat]**
-4. State management & Data manipulation (Sort) **[< This Sat]**
-5. Add Transitions to circles **[< This Sat]**
-6. Recognition component (Mock up)
-7. Styling
-
+##### Guest Feedback
+- Constancy of species when views change: add transitions
+- connection to chart in spread version: hover or click ➡️ links
+- https://merlin.allaboutbirds.org/ ➡️ color sorting
+- Consider stroke in grid view to become categoric color.
 <!-- ## Branding
 ### Keynote Video
 ### Landing Page
