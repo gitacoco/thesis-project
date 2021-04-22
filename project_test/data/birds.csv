@@ -1,0 +1,45 @@
+birdName,birdCode,ContinentCode,CenterLongitude,CenterLatitude,Population,Country
+Ciconia nigra,AD,EU,1.5,42.5,10000000,Andorra
+Alcedo atthis,AF,AS,65,33,10000000,Afghanistan
+Ardea intermedia,AG,NA,-61.8,17.05,10000000,Antigua and Barbuda
+Cygnus columbianus,AI,NA,-63.05,18.22,10000000,Anguilla
+Asio flammeus,AL,EU,20,41,10000000,Albania
+Gallicrex cinerea,AM,AS,45,40,10000000,Armenia
+Corvus corone,AO,AF,18.5,-12.5,10000000,Angola
+Egretta garzetta,AR,SA,-64,-34,10000000,Argentina
+Bubo bubo,AS,OC,-170.5,-14.32,10000000,American Samoa
+Grus vipio,AT,EU,13.33,47.33,10000000,Austria
+Grus grus,AU,OC,135,-25,10000000,Australia
+Gavia stellata,AW,NA,-69.97,12.5,10000000,Aruba
+Halcyon pileata,AZ,AS,47.5,40.5,10000000,Azerbaijan
+Spheniscus demersus,BA,EU,17.83,44.25,10000000,Bosnia and Herzegovina
+Larus ridibundus,BB,NA,-59.53,13.17,10000000,Barbados
+Larus canus,BD,AS,90,24,10000000,Bangladesh
+Numenius madagascariensis,BE,EU,4,50.83,10000000,Belgium
+Tadorna ferruginea,BF,AF,-2,13,10000000,Burkina Faso
+Ardeola bacchus,BG,EU,25,43,10000000,Bulgaria
+Larus argentatus,BH,AS,50.5,26,10000000,Bahrain
+Podiceps nigricollis,BI,AF,30,-3.5,10000000,Burundi
+Pelecanus crispus,BJ,AF,2.25,9.5,10000000,Benin
+Phasianus colchicus,BM,NA,-64.75,32.33,10000000,Bermuda
+Amaurornis phoenicurus,BN,AS,114.67,4.5,10000000,Brunei Darussalam
+Calonectris leucomelas,BO,SA,-65,-17,10000000,Bolivia
+Synthliboramphus antiquus,BR,SA,-55,-10,10000000,Brazil
+Ixobrychus eurhythmus,BS,NA,-76,24,10000000,Bahamas
+Pica pica,BT,AS,90.5,27.5,10000000,Bhutan
+Platalea leucorodia,BW,AF,24,-22,10000000,Botswana
+Megaceryle lugubris,BY,EU,28,53,10000000,Belarus
+Nycticorax nycticorax,BZ,NA,-88.75,17.25,10000000,Belize
+Aix galericulata,CA,NA,-96,60,10000000,Canada
+Aythya fuligula,CF,AF,21,7,10000000,Central African Republic
+Grus japonensis,CG,AF,15,-1,10000000,Congo
+Aythya ferina,CL,SA,-71,-30,10000000,Chile
+Mergus albellus,CM,AF,12,6,10000000,Cameroon
+Podiceps cristatus,CN,AS,105,35,10000000,China
+Tachybaptus�ruficollis,CO,SA,-72,4,10000000,Colombia
+Anas falcata,CV,AF,-24,16,10000000,Cape Verde
+Asio otus,DZ,AF,3,28,10000000,Algeria
+Mergus merganser,KH,AS,105,13,10000000,Cambodia
+Anas acuta,KM,AF,44.25,-12.17,10000000,Comoros
+Anas formosa,KY,NA,-80.67,19.5,10000000,Cayman Islands
+Phalacrocorax carbo,TD,AF,19,15,10000000,Chad
