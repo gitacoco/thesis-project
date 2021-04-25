@@ -4,7 +4,7 @@ function updateGroup(d, i) {
   if (g.selectAll("*").empty()) {
     defs = g.append("svg:defs");
     g.append("circle");
-    g.append("text").classed("label", true);
+    // g.append("text").classed("label", true);
   }
 
   g.classed("country", true).attr(

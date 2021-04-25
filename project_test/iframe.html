@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div id="control">
+        <div id="first-bar" class="grid">
+            <div id="titles" class="columnAB">
+                <h1>Connected Birds</h1>
+                <h4>National Wetland Museum of China</h3>
+            </div>
+            <div id="search" class="columnCD">
+                <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input"
+                    placeholder="Search a bird" />
+            </div>
+            <div id="recognition" class="columnE">
+                <img src="../assets/pics/rec.png"></img>
+            </div>
+        </div>
+        <div id="buttons" class="grid">
+            <div id="button1" class="columnA button">
+                <img src="../assets/pics/b1.png" width="100%">
+            </div>
+
+            <div id="button2" class="columnB button">
+                <img src="../assets/pics/b2.png" width="100%">
+            </div>
+
+            <div id="button3" class="columnC button">
+                <img src="../assets/pics/b3.png" width="100%">
+            </div>
+
+            <div id="button4" class="columnD button">
+                <img src="../assets/pics/b4.png" width="100%">
+            </div>
+
+            <div id="button5" class="columnE button">
+                <img src="../assets/pics/b5.png" width="100%">
+            </div>
+        </div>
+    </div>
+    <div id="wrapper" class="grid">
+        <svg id="canvas" class="columnAll">
+            <g id="chart"></g>
+        </svg>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#titles").click(function () {
+                $("#wrapper")
+                    .empty()
+                    .append('<svg id="canvas" class="columnAll"><g id="chart"></g></svg>');
+                    update()
+            });
+
+            $("#button2").click(function () {
+                $("#wrapper")
+                    .empty()
+                    .append("<img id='taxonomy' width='1500' class='columnAll' style='margin: 300px auto' src='../assets/pics/color.png'/> ");
+            });
+
+            $("#button3").click(function () {
+                $("#wrapper")
+                    .empty()
+                    .append("<img id='taxonomy' width='650' class='columnAll' style='margin: 180px auto' src='../assets/pics/tax.png'/> ");
+            });
+
+            $("#button4").click(function () {
+                $("#wrapper")
+                    .empty()
+                    .append("<img id='taxonomy' width='650' class='columnAll' style='margin: 180px auto' src='../assets/pics/phy.png'/> ");
+            });
+        });
+    </script>
+
+    <script src="js/lib/d3.min.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/layout.js"></script>
+    <script src="js/update.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

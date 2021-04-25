@@ -3,15 +3,8 @@ function getTruncatedLabel(text) {
 }
 
 function layout(data) {
-    var labelHeight = 20;
     var cellWidth = config.width / config.numColumns;
-    var cellHeight = cellWidth + labelHeight;
-
-    var maxRadius = 0.35 * cellWidth;
-
-    // var radiusScale = d3.scaleSqrt()
-    //     .domain([0, 100])
-    //     .range([0, maxRadius]);
+    var cellHeight = cellWidth;
 
     var layoutData = data.map(function(d, i) {
         var item = {};
@@ -22,9 +15,6 @@ function layout(data) {
         item.x = column * cellWidth + 0.5 * cellWidth;
         item.y = row * cellHeight + 0.5 * cellHeight;
         item.radius = 50;
-
-        item.labelText = getTruncatedLabel(d.name);
-        item.labelOffset = maxRadius + labelHeight;
         item.code = d.code;
 
         return item;

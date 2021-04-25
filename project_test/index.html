@@ -6,90 +6,30 @@
   <title>Connected Birds</title>
   <link rel="icon" href="../assets/pics/favicon.ico" />
   <link rel="stylesheet" href="css/style.css">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
-<body>
-  <div class="grid-container" style="margin-top: 30px">
-    <div class="columnABCD" style="display: flex; justify-content: space-between;">
-      <div class="pagetitle" style="cursor: pointer;">
-        <h1>Connected Birds</h1>
-        <h4>National Wetland Museum of China</h3>
-      </div>
-      <div class="search">
-        <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input"
-          placeholder="Search a bird" />
-      </div>
-    </div>
-
-    <div id="recognition" class="columnE">
-      <img src="../assets/pics/rec.png" alt="Species"></img>
-    </div>
-
-    <div id="buttons" class="columnAll" style="display: flex;">
-      <div id="button1" class="columnA button" style="width: 1fr; margin-right: 10px;">
-        <img src="../assets/pics/b1.png" alt="geo range">
-      </div>
-
-      <div id="button2" class="columnB button" style="width: 1fr; margin-right: 10px;">
-        <img src="../assets/pics/b2.png" alt="geo range">
-      </div>
-
-      <div id="button3" class="columnB button" style="width: 1fr; margin-right: 10px;">
-        <img src="../assets/pics/b3.png" alt="geo range">
-      </div>
-
-      <div id="button4" class="columnB button" style="width: 1fr; margin-right: 10px;">
-        <img src="../assets/pics/b4.png" alt="geo range">
-      </div>
-
-      <div id="button5" class="columnB button" style="width: 1fr">
-        <img src="../assets/pics/b5.png" alt="geo range">
-      </div>
-
-    </div>
-  </div>
-
-  <div id="wrapper" class="columnAll">
-    <svg width="1200" height="1300">
-      <g id="chart"></g>
-    </svg>
-  </div>
+<body style="overflow: hidden;">
+  <figure class='ipad'>
+    <iframe src='iframe.html'></iframe>
+  </figure>
 
   <script>
-    $(document).ready(function () {
-      $(".pagetitle").click(function () {
-        location.reload();
-      });
-
-      $("#button2").click(function () {
-        $("#wrapper")
-          .empty()
-          .append("<img id='taxonomy' width='1500' style='margin: 300px auto' src='../assets/pics/color.png'/> ");
-      });
-
-      $("#button3").click(function () {
-        $("#wrapper")
-          .empty()
-          .append("<img id='taxonomy' width='750' style='margin: 45px auto' src='../assets/pics/tax.png'/> ");
-      });
-
-      $("#button4").click(function () {
-        $("#wrapper")
-          .empty()
-          .append("<img id='taxonomy' width='750' style='margin: 45px auto' src='../assets/pics/phy.png'/> ");
-      });
-
-
-    });
+    var container = document.querySelector('.ipad');
+    var calcSize = function calcSize() {
+      var cw = document.documentElement.clientWidth;
+      var ch = document.documentElement.clientHeight;
+      if (cw < 1300) {
+        var scale = 0.35 + (cw - 375) * 0.3 / 400;
+        container.style.transform = 'translate(-50%, -50%) scale(' + scale + ')';
+        container.style['-webkit-transform'] = 'translate(-50%, -50%) scale(' + scale + ')';
+      } else {
+        container.style.transform = 'translate(-50%, -50%)';
+        container.style['-webkit-transform'] = 'translate(-50%, -50%) scale(.85)';
+      }
+    };
+    calcSize();
+    window.addEventListener('resize', calcSize);
   </script>
-
-  <script src="js/lib/d3.min.js"></script>
-  <script src="js/config.js"></script>
-  <script src="js/layout.js"></script>
-  <script src="js/update.js"></script>
-  <script src="js/main.js"></script>
 </body>
 
 </html>
