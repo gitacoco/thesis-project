@@ -22,9 +22,11 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [ ] Sorting in the gallery view
     - [ ]  Sorting by conservation status
     - [ ]  Color encoding in the stroke
-  - [ ]  Grouping in the gallery view **Apr 26**
-    - [ ]  Grouping by conservation status
-    - [ ]  Learn D3 laybout
+  - [ ]  **Apr 26** Grouping in the gallery view
+    - [x]  **Apr 26** Learn D3 laybouts
+      - [x] **Apr 26** Hierarchical layouts
+      - [x] **Apr 26** Layout Transitions
+    - [ ]  **Apr 26** Grouping by conservation status
 - [ ] Details-on-Demand view
   - [ ] Panel for individual species
     - [ ] Data construction and display strategy
