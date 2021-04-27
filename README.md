@@ -41,13 +41,17 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [ ] Taxonomy View 
     - [ ] Need more thoughts on interaction design
   - [ ] Evolution Tree: Phylogeny View
+    - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
+    - [ ] Code: Right-angle phylograms and [circular dendrograms](http://bl.ocks.org/kueda/1036776) with d3
+    - [ ] BirdTree.org [phylogeny subsets](https://birdtree.org/subsets/)
+    - [ ] [iTOL](https://itol.embl.de/) Interactive Tree of Life
     - [ ] Need more thoughts on Naive Nnalogy
   - [ ] Threats & Actions: Parallel Coordinates View
     - [ ] Need data construction
 - [ ] Add Transitions to circles
 - [ ] Recognition component [1 of 2 options]
   - [ ] Video mock up
-  - [ ] Webpage mock up: iframe page with panorama background
+  - [ ] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
 - [ ] Accessibility
 - [ ] Final touches
 - [ ] Keynote Video
