@@ -6,11 +6,15 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 
 ## To-do List <!-- omit in toc -->
 
+- [ ] Datasets
+  - [x] **Apr 27** Modify the birdcode
+  - [x] **Apr 27** Add conservation status data
+  - [x] **Apr 27** Add normal name data
 - [ ] Gallery View
   - [x] List of the items
     - [x] **Apr 25** Set the control bar `fixed`
     - [ ] Set the `::before`, `::after` style of buttons
-    - [x] **Apr 25** ~~Overflow: scrolling in svg~~ Using `fixed` position
+    - [ ] Overflow: scrolling in svg
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
@@ -22,23 +26,24 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [ ] Sorting in the gallery view
     - [ ]  Sorting by conservation status
     - [ ]  Color encoding in the stroke
-  - [ ]  **Apr 26** Grouping in the gallery view
-    - [x]  **Apr 26** Learn D3 laybouts
-      - [x] **Apr 26** Hierarchical layouts
-      - [x] **Apr 26** Layout Transitions
-    - [ ]  **Apr 26** Grouping by conservation status
 - [ ] Details-on-Demand view
+  - [x] **Apr 27** Popup when hovering
   - [ ] Panel for individual species
     - [ ] Data construction and display strategy
     - [ ] multi-modal: voice of birds
-  - [ ] The modality for entering a secondary view
-  - [ ] state lock of selection when views change
+  - [x] ~~The modality for entering a secondary view~~
+  - [ ] State lock of selection when views change
 - [ ] Macro-level views
+  - [ ] Grouping View
+    - [x] **Apr 26** Learn D3 laybouts
+    - [x] **Apr 26** Hierarchical layouts
+    - [ ] **Apr 27** Grouping by conservation status
+    - [ ] **Apr 27** Layout Transitions
   - [ ] Geo range View
     - [ ] Need more design on details
   - [ ] Color-sorting View
     - [ ] Need more design on details
-  - [ ] Taxonomy View 
+  - [ ] Taxonomy View
     - [ ] Need more thoughts on interaction design
   - [ ] Evolution Tree: Phylogeny View
     - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
