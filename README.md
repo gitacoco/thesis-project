@@ -14,15 +14,20 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [x] **Apr 27** Modify the birdcode
   - [x] **Apr 27** Add conservation status data
   - [x] **Apr 27** Add normal name data
-- [ ] Gallery View
-  - [x] List of the items
-    - [x] **Apr 25** Set the control bar `fixed`
-    - [ ] Set the `::before`, `::after` style of buttons
-    - [ ] Overflow: scrolling in svg
+  - [x] **Apr 28** Add Population trend data
+- [ ] Fundamental components
+  - [x] **Apr 29** Data-driven menu
+  - [x] **Apr 29** Set the `::before`, `::after` style of the menu
+  - [ ] 'Back to the gallery' button
+  - [x] **Apr 25** Set the control bar `fixed`
+  - [ ] Overflow control: scrolling in svg
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
     - [x] **Apr 25** Resize webpage with locked aspect ratio
+- [ ] Gallery View
+  - [x] List of the items
+    - [ ] Optimize the performance of SVG image
   - [x] Name of the items
     - [x] ~~Normal name instead of sci name~~
     - [x] ~~Toggle word wrap or~~
@@ -30,6 +35,8 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [ ] Sorting in the gallery view
     - [ ]  Sorting by conservation status
     - [ ]  Color encoding in the stroke
+    - [x]  **Apr 29** Add Key Function to avoid disorder id
+    - [x]  **Apr 28** Add State management
 - [ ] Details-on-Demand view
   - [x] **Apr 27** Popup when hovering
   - [ ] Panel for individual species
@@ -74,9 +81,11 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 - Mar 30: [Indivisual Meeting Feedback for Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
 - Apr 13: [External Feedback for the Design Solution](#feedback)
 - Apr 8: [In-class Feedback for Development Process](#in-class-feedback-2)
-- Apr 15: [Indivisual Meeting Feedback for Development Process*](#in-class-feedback-3)
+- Apr 15: [Daniel Indivisual Meeting Feedback for Development Process*](#in-class-feedback-3)
 - Apr 20: [Guest Feedback for Development Process](#guest-feedback)
+- Apr 28: [Shannon Indivisual Meeting Feedback for Final Touches*](#indivisual-meeting-feedback-for-final-touches)
 - May 04: Indivisual Meeting Feedback Final Presentation [incoming]
+- May 06: Feedback of Final Review [incoming]
 
 ## Table of Contents <!-- omit in toc -->
 <!-- TOC -->
@@ -95,10 +104,16 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [Screenshots (Mar 2)](#screenshots-mar-2)
     - [In-class Feedback](#in-class-feedback-2)
     - [External Discussion](#external-discussion)
-    - [Indivisual Meeting Feedback for Design Refinement](#indivisual-meeting-feedback-for-design-refinement)
   - [The Whole Story (Apr 13)](#the-whole-story-apr-13)
     - [Slides](#slides)
     - [Feedback](#feedback)
+    - [Thoughts on Final Touches](#thoughts-on-final-touches)
+      - [Narratively thematic navigations through the collection](#narratively-thematic-navigations-through-the-collection)
+      - [Transitions as the connective threads between individual maps](#transitions-as-the-connective-threads-between-individual-maps)
+      - [Descriptive commentary reflecting on the mission of each map](#descriptive-commentary-reflecting-on-the-mission-of-each-map)
+      - [Accessories to enhance the self-explanatory and intuitive features of the atlas](#accessories-to-enhance-the-self-explanatory-and-intuitive-features-of-the-atlas)
+      - [Expanding accessibility for scenarios](#expanding-accessibility-for-scenarios)
+    - [Indivisual Meeting Feedback for Final Touches*](#indivisual-meeting-feedback-for-final-touches)
   - [References](#references)
     - [Histories of Natural History (Museums), Cultures of Display](#histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
@@ -221,8 +236,6 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
   
     Yuning has a background in Environmental Science, and she focuses on the field of biodesign. She provides valuable suggestions from the perspective of living organisms and nature. First, she thinks the conversations could not only be technically but also a transformation of identities between humans and species/specimens. We could enable humans to observe and understand the world through the eyes/lens of a bird, traveling through different ecosystems. Also, she points that naïve analogies (Hofstadter et al. 2013) could be used to eliminate the barriers between people and data visualization and make the interface to be less like a 'Database'. One of the forms of naïve analogies is to imitate the bird relations, such as food chain and ecology relationships, through the interactivity of social media platforms in human society, which builds proximity and enhances comprehension via a familiar formula or language. Naïve analogies matter, because Yuning believes the step before "making things more accessible" is to spark people interests and encourage or motivate them to access it (make them want to do so).
 
-#### Indivisual Meeting Feedback for Design Refinement
-
 ### The Whole Story (Apr 13)
 
 #### Slides
@@ -247,6 +260,32 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
   - Anna Gedal: Zhibang, it’s so nice to meet another student working in this space! I’ve worked for around 5 years, creating these types of experiences for museums. Few institutions create them on their own, they normally hire museum consulting firms with specialized skills to build them. The costs are high. Even a basic touchscreen kiosk can cost over $1M, so many institutions cannot afford it. More broadly, most institutions do not have the tech infrastructure to support tech. Christiane Paul writes a lot about this in her work with the Whitney (she’s in the Media Studies )
   - Sherry Manzar: This is such an amazing outlook into the questions around what a collection is and can be. Really well-done!
   - Oscar Fossum: Everyone appreciates an interactive museum exhibition. I love being able to deep dive on a single presentation. Your work could provide “thick descriptions” to go deeper into the histories and connections between museum-things! Awesome, Zhibang!
+
+#### Thoughts on Final Touches
+
+##### Narratively thematic navigations through the collection
+
+1. Theme-related navigating options
+2. Preset stories of selected species with captions as the guidance for atlas visitors
+
+##### Transitions as the connective threads between individual maps
+
+1. How transition enhance the human perception and cognition
+
+##### Descriptive commentary reflecting on the mission of each map
+
+##### Accessories to enhance the self-explanatory and intuitive features of the atlas
+
+1. Add more hints or signifiers for user interactions
+2. Introduce Naïve Analogy1 methodology for non-professional users
+3. Use the splash page as prefaces; add legends and citations for the data
+
+##### Expanding accessibility for scenarios
+
+1. Provide the simulation of the in-person experience in the cyberspace
+2. Provide home-based experience using learning kits as the analog of the museum settings for kids
+
+#### Indivisual Meeting Feedback for Final Touches*
 
 ### References
 
