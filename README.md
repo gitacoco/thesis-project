@@ -15,19 +15,22 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [x] **Apr 27** Add conservation status data
   - [x] **Apr 27** Add normal name data
   - [x] **Apr 28** Add Population trend data
+  - [ ] **Apr 30** Threats/Actions Data
+  - [ ] **Apr 30** Hierarchical Taxonomy Data
 - [ ] Fundamental components
   - [x] **Apr 29** Data-driven menu
   - [x] **Apr 29** Set the `::before`, `::after` style of the menu
   - [ ] 'Back to the gallery' button
+  - [ ] Page footer for item counts, sorting feature, preset stories
   - [x] **Apr 25** Set the control bar `fixed`
-  - [ ] Overflow control: scrolling in svg
+  - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
     - [x] **Apr 25** Resize webpage with locked aspect ratio
 - [ ] Gallery View
   - [x] List of the items
-    - [ ] Optimize the performance of SVG image
+    - [x] Optimize the performance of SVG image => Resize image
   - [x] Name of the items
     - [x] ~~Normal name instead of sci name~~
     - [x] ~~Toggle word wrap or~~
@@ -63,7 +66,10 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [ ] [iTOL](https://itol.embl.de/) Interactive Tree of Life
     - [ ] Need more thoughts on Naive Nnalogy
   - [ ] Threats & Actions: Parallel Coordinates View
-    - [ ] Need data construction
+    - [ ] Data construction: from many-to-many to one-to-many relationships
+    - [x] **Apr 29** Transitions from other view
+    - [x] **Apr 29** Resize and restyle circle elements during transitions
+    - [x] **Apr 29** Change hovering behavior in different views through `swicth` conditionals
 - [ ] Add Transitions to circles
 - [ ] Recognition component [1 of 2 options]
   - [ ] Video mock up
