@@ -20,6 +20,7 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 - [ ] Fundamental components
   - [x] **Apr 29** Data-driven menu
   - [x] **Apr 29** Set the `::before`, `::after` style of the menu
+  - [ ] Style the menu with icons
   - [ ] 'Back to the gallery' button
   - [ ] Page footer for item counts, sorting feature, preset stories
   - [x] **Apr 25** Set the control bar `fixed`
