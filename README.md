@@ -25,6 +25,7 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [ ] Page footer for item counts, sorting feature, preset stories
   - [x] **Apr 25** Set the control bar `fixed`
   - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
+  - [ ] Search Function
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
