@@ -13,23 +13,29 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 - [ ] Datasets
   - [x] **Apr 27** Modify the birdcode
   - [x] **Apr 27** Add conservation status data
-  - [x] **Apr 27** Add normal name data
-  - [x] **Apr 28** Add Population trend data
-  - [ ] **Apr 30** Threats/Actions Data
-  - [ ] **Apr 30** Hierarchical Taxonomy Data
+  - [x] **Apr 27** Add common name data
+  - [x] **Apr 28** Add population trend data
+  - [x] **May 01** Using node.js to request data
+  - [x] **May 01** [Threats](https://www.iucnredlist.org/resources/threat-classification-scheme)/[Actions](https://www.iucnredlist.org/resources/conservation-actions-classification-scheme) Data
+  - [x] **May 01** Taxonomy Data
+  - [ ] **May 02** Bird song Data
+  - [ ] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
 - [ ] Fundamental components
-  - [x] **Apr 29** Data-driven menu
-  - [x] **Apr 29** Set the `::before`, `::after` style of the menu
-  - [ ] Style the menu with icons
-  - [ ] 'Back to the gallery' button
-  - [ ] Page footer for item counts, sorting feature, preset stories
-  - [x] **Apr 25** Set the control bar `fixed`
-  - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
-  - [ ] Search Function
+  - [ ] Menu
+    - [x] **Apr 29** Data-driven menu
+    - [x] **Apr 29** Set the `::before`, `::after` effects
+    - [x] **Apr 30** Style the menu with icons (spent a whole day)
+    - [x] **Apr 25** Set the control bar `fixed`
+    - [ ] 'Back to the gallery' button
+    - [ ] Search Function
+  - [ ] Page footer
+    - [ ] Page footer for item counts, sorting feature, preset stories
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
     - [x] **Apr 25** Resize webpage with locked aspect ratio
+    - [ ] Resize webpage for high resolution environments
+    - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
 - [ ] Gallery View
   - [x] List of the items
     - [x] Optimize the performance of SVG image => Resize image
@@ -42,7 +48,7 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
     - [ ]  Color encoding in the stroke
     - [x]  **Apr 29** Add Key Function to avoid disorder id
     - [x]  **Apr 28** Add State management
-- [ ] Details-on-Demand view
+- [ ] **May 03** Details-on-Demand view
   - [x] **Apr 27** Popup when hovering
   - [ ] Panel for individual species
     - [ ] Data construction and display strategy
@@ -50,35 +56,37 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
   - [x] ~~The modality for entering a secondary view~~
   - [ ] State lock of selection when views change
 - [ ] Macro-level views
-  - [ ] Grouping View
+  - [ ] **May 02** Grouping View
     - [x] **Apr 26** Learn D3 laybouts
     - [x] **Apr 26** Hierarchical layouts
-    - [ ] **Apr 27** Grouping by conservation status
-    - [ ] **Apr 27** Layout Transitions
+    - [ ] **May 02** Grouping by conservation status
   - [ ] Geo range View
     - [ ] Need more design on details
   - [ ] Color-sorting View
     - [ ] Need more design on details
-  - [ ] Taxonomy View
+  - [ ] **May 03** Taxonomy View
     - [ ] Need more thoughts on interaction design
-  - [ ] Evolution Tree: Phylogeny View
+  - [ ] **Pending** Evolution Tree: Phylogeny View
     - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
     - [ ] Code: Right-angle phylograms and [circular dendrograms](http://bl.ocks.org/kueda/1036776) with d3
     - [ ] BirdTree.org [phylogeny subsets](https://birdtree.org/subsets/)
     - [ ] [iTOL](https://itol.embl.de/) Interactive Tree of Life
     - [ ] Need more thoughts on Naive Nnalogy
-  - [ ] Threats & Actions: Parallel Coordinates View
+  - [ ] **May 02** Threats & Actions
     - [ ] Data construction: from many-to-many to one-to-many relationships
     - [x] **Apr 29** Transitions from other view
     - [x] **Apr 29** Resize and restyle circle elements during transitions
     - [x] **Apr 29** Change hovering behavior in different views through `swicth` conditionals
-- [ ] Add Transitions to circles
-- [ ] Recognition component [1 of 2 options]
-  - [ ] Video mock up
+- [x] Add Transitions to circles
+- [ ] Recognition component
   - [ ] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
 - [ ] Accessibility
+  - [ ] `alt=''` property for buttons and pictures
 - [ ] Final touches
-- [ ] Keynote Video
+- [ ] Keynote Presentation
+  - [ ] **May 02** Script Writing
+  - [ ] **May 02** Request a dubbing of script
+  - [ ] **May 04** Video mock up
 
 ## Feedback <!-- omit in toc -->
 
