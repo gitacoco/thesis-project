@@ -4,6 +4,10 @@
 
 By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis | Parsons 2021 Data Visualization
 
+## Abstract
+
+Current specimens being displayed at museums are attempts and efforts of mankind's wisdom in creating traces of their presence, representing their appearance, and preserving the disappearance of species, but there are user-experience gaps between the stories museums provide and what people further desire, between the digital interface and the physical settings, and between the developed areas and the developing ones. This project creates a low-cost data-driven framework that takes full advantage of the scalability of digital media and perceivability of real-world objects to reactivate exhibits and enhance in-person engagement in museums. With the future goal of being compatible with datasets of other species, providing API for further in-depth development, this project will first focus on avian species in the National Wetland Museum of China to display specimens through a digital-physical fusion strategy.
+
 ## Preview
 
 ![Image of preview](./keynote/img/slides_Page_01.png)
@@ -105,8 +109,8 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
 
 ## Table of Contents <!-- omit in toc -->
 <!-- TOC -->
-- [Preview](#preview)
 - [Abstract](#abstract)
+- [Preview](#preview)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
@@ -150,10 +154,6 @@ By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis 
       - [One-on-one Feedback](#one-on-one-feedback)
       - [Guest Feedback](#guest-feedback)
 <!-- /TOC -->
-
-## Abstract
-
-Current specimens being displayed at museums are attempts and efforts of mankind's wisdom in creating traces of their presence, representing their appearance, and preserving the disappearance of species, but there are user-experience gaps between the stories museums provide and what people further desire, between the digital interface and the physical settings, and between the developed areas and the developing ones. This project creates a low-cost data-driven framework that takes full advantage of the scalability of digital media and perceivability of real-world objects to reactivate exhibits and enhance in-person engagement in museums. With the future goal of being compatible with datasets of other species, providing API for further in-depth development, this project will first focus on avian species in the National Wetland Museum of China to display specimens through a digital-physical fusion strategy.
 
 ## Research & Design
 
