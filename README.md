@@ -68,7 +68,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [x] **Apr 26** Hierarchical layouts
     - [x] **May 02** Grouping by conservation status
     - [ ] **May 03** Created ordinal scale of color based on the depth of nodes
-    - [ ] force layout inside pack layout
+    - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
     - [ ] More 'Group By' options: i.e. population trends
   - [ ] Geo range View
     - [ ] Get bird song data with latitude and longitude
