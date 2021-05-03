@@ -24,8 +24,8 @@ Current specimens being displayed at museums are attempts and efforts of mankind
   - [x] **May 01** Using node.js to request data
   - [x] **May 01** [Threats](https://www.iucnredlist.org/resources/threat-classification-scheme)/[Actions](https://www.iucnredlist.org/resources/conservation-actions-classification-scheme) Data
   - [x] **May 01** Taxonomy Data
-  - [ ] **May 02** Bird song Data
-  - [ ] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
+  - [ ] Bird song Data
+  - [x] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
 - [ ] Fundamental components
   - [ ] Menu
     - [x] **Apr 29** Data-driven menu
@@ -35,7 +35,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [ ] 'Back to the gallery' button
     - [ ] Search Function
   - [ ] Page footer
-    - [ ] Page footer for item counts, sorting feature, preset stories
+    - [ ] Page footer for item counts, sorting & filtering feature, preset stories
   - [x] Webpage Layout
     - [x] ~~Responsive Grid Layout or~~
     - [x] **Apr 25** Embed the webpage into iframe mockup
@@ -57,6 +57,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 - [ ] **May 03** Details-on-Demand view
   - [x] **Apr 27** Popup when hovering
   - [ ] Panel for individual species
+    - [ ] Force layout transform in the gallery view
     - [ ] Data construction and display strategy
     - [ ] multi-modal: voice of birds
   - [x] ~~The modality for entering a secondary view~~
@@ -65,13 +66,20 @@ Current specimens being displayed at museums are attempts and efforts of mankind
   - [ ] **May 02** Grouping View
     - [x] **Apr 26** Learn D3 laybouts
     - [x] **Apr 26** Hierarchical layouts
-    - [ ] **May 02** Grouping by conservation status
+    - [x] **May 02** Grouping by conservation status
+    - [ ] **May 03** Created ordinal scale of color based on the depth of nodes
+    - [ ] force layout inside pack layout
+    - [ ] More 'Group By' options: i.e. population trends
   - [ ] Geo range View
-    - [ ] Need more design on details
+    - [ ] Get bird song data with latitude and longitude
+    - [ ] List panel
+    - [ ] Map component
+    - [ ] Habitat lens (waiting for the responds from BirdLife)
+  - [ ] Taxonomy View
+    - [ ] **May 03** D3 stratify data and layout generater
+    - [ ] **May 03** data management and view transitions
+    - [ ] styling
   - [ ] Color-sorting View
-    - [ ] Need more design on details
-  - [ ] **May 03** Taxonomy View
-    - [ ] Need more thoughts on interaction design
   - [ ] **Pending** Evolution Tree: Phylogeny View
     - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
     - [ ] Code: Right-angle phylograms and [circular dendrograms](http://bl.ocks.org/kueda/1036776) with d3
