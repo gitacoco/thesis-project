@@ -2,7 +2,9 @@
 
 ## A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy <!-- omit in toc -->
 
-By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Written Thesis | Parsons 2021 Data Visualization
+By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Project Repo | Written Thesis | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
+
+Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design
 
 ## Abstract
 
@@ -13,6 +15,8 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 ## Preview
 
 ![Image of preview](./keynote/img/slides_Page_01.png)
+
+## Acknowledgements
 
 ## To-do List <!-- omit in toc -->
 
@@ -67,7 +71,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [x] **Apr 26** Learn D3 laybouts
     - [x] **Apr 26** Hierarchical layouts
     - [x] **May 02** Grouping by conservation status
-    - [ ] **May 03** Created ordinal scale of color based on the depth of nodes
+    - [x] **May 03** Created ordinal scale of color based on the depth of nodes
     - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
     - [ ] More 'Group By' options: i.e. population trends
   - [ ] Geo range View
@@ -76,7 +80,8 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [ ] Map component
     - [ ] Habitat lens (waiting for the responds from BirdLife)
   - [ ] Taxonomy View
-    - [ ] **May 03** D3 stratify data and layout generater
+    - [ ] **May 03** taxon node parents
+    - [ ] **May 03** stratify data and layout generater
     - [ ] **May 03** data management and view transitions
     - [ ] styling
   - [ ] Color-sorting View
@@ -121,6 +126,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 <!-- TOC -->
 - [Abstract](#abstract)
 - [Preview](#preview)
+- [Acknowledgements](#acknowledgements)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
@@ -150,6 +156,8 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [Museum Technique + DataVis](#museum-technique--datavis)
     - [Cognitive Learning](#cognitive-learning)
     - [Case Studies](#case-studies)
+    - [D3 or other examples](#d3-or-other-examples)
+    - [Field Knowledge](#field-knowledge)
 - [Implementation](#implementation)
   - [Pipeline](#pipeline)
   - [Layered Interfaces](#layered-interfaces)
@@ -340,6 +348,8 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 
 #### Case Studies
 
+- [Unlikely Avian Taxonomies](https://zoesadokierski.com/exhibitions/unlikely-avian-taxonomies)
+- [Handbook of the Birds of the World Alive](http://www.birderslibrary.com/reviews/other-reviews/hbw_alive.htm)
 - [HEADHUNT, National Portrait Gallery, Australia](https://www.portrait.gov.au/content/headhunt)
 - [SMARTIFY: Explore a world of art and culture](https://smartify.org/)
 - [Lessons in bringing birds to life: an Augmented Reality experiment at the Museum of Natural History](https://medium.com/neeeu/lessons-in-bringing-birds-to-life-an-augmented-reality-experiment-at-the-museum-of-natural-history-21d2855c4c68)
@@ -350,6 +360,17 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [BLOGS FROM THE NATURAL HISTORY MUSEUM](https://naturalhistorymuseum.blog/category/digital-media-at-the-nhm/)
 - [the syllabi for Elaine Ayers’ classes](https://elaineayers.com/Work)
 
+#### D3 or other examples
+
+- [Radial Tidy Tree by Muhammad](https://observablehq.com/@muhammad-usman17/radial-tidy-tree)
+- [Radial Tidy Tree by Evgenia](https://observablehq.com/@joi-joe-joy/radial-tidy-tree)
+- [Beautiful Family Tree](https://familyhistorydaily.com/genealogy-help-and-how-to/family-tree-charts/)
+- [force layout](https://www.d3indepth.com/force-layout/)
+
+#### Field Knowledge
+
+- [Is gaining over 1000 new bird species a problem for conservation?](https://www.birdlife.org/worldwide/news/gaining-over-1000-new-bird-species-problem-conservation)
+  
 ## Implementation
 
 ### Pipeline
