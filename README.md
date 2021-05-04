@@ -24,20 +24,20 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 - [ ] Bird sound data (node.js) request from API
 - [ ] The data-driven map of bird sounds
-- [ ] Mock count/filter/sorter/stories footer
-- [ ] Finishing video script writing
-- [ ] 1 on 1 session with Daniel
+- [x] Mock count/filter/sorter/stories footer
+- [x] 1 on 1 session with Daniel
 
 ### Wed May 5 <!-- omit in toc -->
 
+- [ ] Finishing video script writing
 - [ ] Force layout in the gallery view
 - [ ] Force layout in the conservation view
 - [ ] Taxo view using Radial Tidy Tree
-- [ ] Finishing Threats and Actions view
 - [ ] On-location shooting at Xixi Museum
   
 ### Thu May 6 <!-- omit in toc -->
 
+- [ ] Finishing Threats and Actions view
 - [ ] Panorama background with Three.js
 - [ ] Mapping the AR comnnections
 - [ ] 4-min demo video making
