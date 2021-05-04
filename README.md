@@ -52,6 +52,10 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 - [ ] 1 on 1 session with Chris Bost at 01:00 AM
 
+### Mon
+
+- [ ] Video Due: 17:00 EST
+
 ## To-do List by Component <!-- omit in toc -->
 
 - [ ] Datasets
@@ -161,6 +165,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 - [Abstract](#abstract)
 - [Preview](#preview)
 - [Acknowledgements](#acknowledgements)
+  - [Mon](#mon)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
