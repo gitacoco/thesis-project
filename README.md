@@ -53,16 +53,6 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 - [ ] 1 on 1 session with Chris Bost at 01:00 AM
 
-### Sun May 9 <!-- omit in toc -->
-
-### Mon May 10 <!-- omit in toc -->
-
-### Tue May 11 <!-- omit in toc -->
-
-### Wed May 12 <!-- omit in toc -->
-
-### Thu May 13 <!-- omit in toc -->
-
 ## To-do List by Component <!-- omit in toc -->
 
 - [ ] Datasets
