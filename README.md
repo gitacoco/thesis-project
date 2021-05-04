@@ -18,7 +18,9 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ## Acknowledgements
 
-## To-do List <!-- omit in toc -->
+## To-do List by Date<!-- omit in toc -->
+
+## To-do List by Component<!-- omit in toc -->
 
 - [ ] Datasets
   - [x] **Apr 27** Modify the birdcode
