@@ -18,9 +18,52 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ## Acknowledgements
 
-## To-do List by Date<!-- omit in toc -->
+## To-do List by Date <!-- omit in toc -->
 
-## To-do List by Component<!-- omit in toc -->
+### Tue May 4 <!-- omit in toc -->
+
+- [ ] Bird sound data (node.js) request from API
+- [ ] The data-driven map of bird sounds
+- [ ] Force layout in the gallery view
+- [ ] Force layout in the conservation view
+- [ ] Mock count/filter/sorter/stories footer
+- [ ] Finishing video script writing
+- [ ] 1 on 1 session with Daniel
+
+### Wed May 5 <!-- omit in toc -->
+
+- [ ] Final touches of conservation view
+- [ ] Taxo view using Radial Tidy Tree
+- [ ] Finishing Threats and Actions view
+- [ ] On-location shooting at Xixi Museum
+  
+### Thu May 6 <!-- omit in toc -->
+
+- [ ] Panorama background with Three.js
+- [ ] Mapping the AR comnnections
+- [ ] 4-min demo video making
+- [ ] Final review
+
+### Fri May 7 <!-- omit in toc -->
+
+- [ ] Submit as the final project for *Mapping the Field* class by noon
+- [ ] Final touches of Geo view: data points filter
+
+### Sat May 8 <!-- omit in toc -->
+
+- [ ] 1 on 1 session with Chris Bost at 01:00 AM
+
+### Sun May 9 <!-- omit in toc -->
+
+### Mon May 10 <!-- omit in toc -->
+
+### Tue May 11 <!-- omit in toc -->
+
+### Wed May 12 <!-- omit in toc -->
+
+### Thu May 13 <!-- omit in toc -->
+
+## To-do List by Component <!-- omit in toc -->
 
 - [ ] Datasets
   - [x] **Apr 27** Modify the birdcode
@@ -76,7 +119,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
     - [x] **May 03** Created ordinal scale of color based on the depth of nodes
     - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
     - [ ] More 'Group By' options: i.e. population trends
-  - [ ] Geo range View
+  - [ ] Geo View
     - [ ] Get bird song data with latitude and longitude
     - [ ] List panel
     - [ ] Map component
@@ -368,6 +411,8 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [Radial Tidy Tree by Evgenia](https://observablehq.com/@joi-joe-joy/radial-tidy-tree)
 - [Beautiful Family Tree](https://familyhistorydaily.com/genealogy-help-and-how-to/family-tree-charts/)
 - [force layout](https://www.d3indepth.com/force-layout/)
+- [Quadtree Brush](https://observablehq.com/@d3/quadtree-brush)
+- [Quadtree Brush optimization](https://observablehq.com/@bmschmidt/quadtree-brush-optimization)
 
 #### Field Knowledge
 
