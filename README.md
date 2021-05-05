@@ -18,26 +18,47 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ## Acknowledgements
 
-## To-do List by Date <!-- omit in toc -->
+## Last-mile to-do List by Date <!-- omit in toc -->
 
 ### Tue May 4 <!-- omit in toc -->
 
-- [ ] Bird sound data (node.js) request from API
-- [ ] The data-driven map of bird sounds
+- [x] The framework of the data-driven map
 - [x] Mock count/filter/sorter/stories footer
 - [x] 1 on 1 session with Daniel
 
 ### Wed May 5 <!-- omit in toc -->
 
+- [ ] Geo component
+  - [ ] Dataset and data points
+    - [x] Request bird sound data
+    - [ ] Populate data into the map
+    - [ ] Map markers
+  - [ ] Filters
+    - [ ] Data filter by clicking items
+    - [ ] Area filter above the map
+  - [ ] Popup
+    - [ ] Leaflet popup of the makers
+    - [ ] Media player
+    - [ ] Styling
+  - [x] Item list
+    - [x] Style the list of items
+    - [x] Created the transition of item containers
+    - [x] Adjust the direction of the transition of container width
+  - [x] Map elements
+    - [x] Adjust the position of zoom control
+    - [x] Set map bound
+    - [x] Constrain vertical scroll at the minzoom level
+    - [x] Set the corners of world map
+- [x] Transition optimization
+  - [x] Optimized the performance of transition: avoiding switch fuction, using ternary operator instead
+  - [x] Canvas transition differences between different views (ternary operator)
 - [ ] Finishing video script writing
 - [ ] Force layout in the gallery view
 - [ ] Force layout in the conservation view
-- [ ] Taxo view using Radial Tidy Tree
-- [ ] On-location shooting at Xixi Museum
   
 ### Thu May 6 <!-- omit in toc -->
 
-- [ ] Finishing Threats and Actions view
+- [ ] On-location shooting at Xixi Museum
 - [ ] Panorama background with Three.js
 - [ ] Mapping the AR comnnections
 - [ ] 4-min demo video making
@@ -45,6 +66,8 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ### Fri May 7 <!-- omit in toc -->
 
+- [ ] Taxo view using Radial Tidy Tree
+- [ ] Finishing Threats and Actions view
 - [ ] Submit as the final project for *Mapping the Field* class by noon
 - [ ] Final touches of Geo view: data points filter
 
