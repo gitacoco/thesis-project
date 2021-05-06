@@ -53,7 +53,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
   - [ ] Popup
     - [ ] Leaflet popup and styling
     - [ ] Media player
-- [ ] Force layout
+- [ ] [Force layout](https://observablehq.com/@dianaow/force-directed-graph-with-circle-packing/2)
   - [ ] Force layout in the gallery view
   - [ ] Metadata panel in the gallery view
 - [ ] Panorama background with Three.js
