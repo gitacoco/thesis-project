@@ -28,18 +28,7 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ### Wed May 5 <!-- omit in toc -->
 
-- [ ] Geo component
-  - [ ] Dataset and data points
-    - [x] Request bird sound data
-    - [ ] Populate data into the map
-    - [ ] Map markers
-  - [ ] Filters
-    - [ ] Data filter by clicking items
-    - [ ] Area filter above the map
-  - [ ] Popup
-    - [ ] Leaflet popup of the makers
-    - [ ] Media player
-    - [ ] Styling
+- [x] Geo component
   - [x] Item list
     - [x] Style the list of items
     - [x] Created the transition of item containers
@@ -52,32 +41,52 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 - [x] Transition optimization
   - [x] Optimized the performance of transition: avoiding switch fuction, using ternary operator instead
   - [x] Canvas transition differences between different views (ternary operator)
-- [ ] Finishing video script writing
-- [ ] Force layout in the gallery view
-- [ ] Force layout in the conservation view
-  
+
 ### Thu May 6 <!-- omit in toc -->
 
-- [ ] On-location shooting at Xixi Museum
+- [ ] Geo component
+  - [ ] Dataset and data points
+    - [ ] Request bird sound data
+    - [ ] Populate data into the map
+  - [ ] Filters
+    - [ ] Data filter by clicking items
+  - [ ] Popup
+    - [ ] Leaflet popup and styling
+    - [ ] Media player
+- [ ] Force layout
+  - [ ] Force layout in the gallery view
+  - [ ] Metadata panel in the gallery view
 - [ ] Panorama background with Three.js
-- [ ] Mapping the AR comnnections
-- [ ] 4-min demo video making
+  - [ ] On-location shooting at Xixi Museum
+  - [ ] Mapping the AR comnnections
+- [ ] Video
+  - [ ] Finishing video script writing
+  - [ ] 4-min demo video making
 - [ ] Final review
+- [ ] Credit button
 
 ### Fri May 7 <!-- omit in toc -->
 
-- [ ] Taxo view using Radial Tidy Tree
-- [ ] Finishing Threats and Actions view
-- [ ] Submit as the final project for *Mapping the Field* class by noon
-- [ ] Final touches of Geo view: data points filter
+- [ ] Threats and Actions view
+- [ ] Final touches of Geo view: Area filter above the map
+- [ ] Submit as the final project for MTF class by noon
+- [ ] Dub the video
 
 ### Sat May 8 <!-- omit in toc -->
 
 - [ ] 1 on 1 session with Chris Bost at 01:00 AM
+- [ ] Taxo view using Radial Tidy Tree
+- [ ] Force layout in the conservation view
 
-### Mon
+### Sun May 9<!-- omit in toc -->
 
-- [ ] Video Due: 17:00 EST
+- [ ] Extra energy: 3D globe in the map view
+
+### Mon May 10<!-- omit in toc -->
+
+### Tue May 11<!-- omit in toc -->
+
+- [ ] Video Due: 05:00 AM Beijing Time
 
 ## To-do List by Component <!-- omit in toc -->
 
@@ -188,7 +197,6 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 - [Abstract](#abstract)
 - [Preview](#preview)
 - [Acknowledgements](#acknowledgements)
-  - [Mon](#mon)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
