@@ -8,9 +8,7 @@ Submitted in partial fulfillment of the requirements for the degree of Master Sc
 
 ## Abstract
 
-Current specimens being displayed at museums are attempts and efforts of mankind's wisdom in creating traces of their presence, representing their appearance, and preserving the disappearance of species, but there are user-experience gaps between the stories museums provide and what people further desire, between the digital interface and the physical settings, and between the developed areas and the developing ones. This project creates a low-cost data-driven framework that takes full advantage of the scalability of digital media and perceivability of real-world objects to reactivate exhibits and enhance in-person engagement in museums. With the future goal of being compatible with datasets of other species, providing API for further in-depth development, this project will first focus on avian species in the National Wetland Museum of China to display specimens through a digital-physical fusion strategy.
-
-**[Version 2]** The specimens currently on display in museums are the attempts and efforts of human intelligence to create traces of species that once existed, to represente their appearance, and to resist their disappearance. But there is an experiential divide between the stories offered by museums and people's desire to go further, between digital interfaces and physical settings, and between developed and less developed regions. This project creates a low-cost, data-driven framework that leverages the scalability of digital media and the perceptibility of real-world objects to reactivate exhibits and enhance the in-person engagement in museums. The project will first focus on bird species at the National Wetland Museum of China, enhancing visitors' cognitive experience of the specimens through a strategy of digital-physical integration. The future vision of the project is to open up the ability to be compatible with other species datasets and provide APIs and SDKs for further development.
+The specimens currently on display in museums are the attempts and efforts of human intelligence to create traces of species that once existed, to represent their appearance, and to resist their disappearance. But there is an experiential divide between the stories offered by museums and visitors’ desire to go further, between digital interfaces and physical settings, and between developed and less developed regions. This project creates a low-cost, data-driven framework that leverages the scalability of digital media and the perceptibility of real-world objects to breathe new life into exhibits and enhance the in-person engagement in museums. The project will first focus on bird species at the National Wetland Museum of China, enhancing visitors' cognitive experience of the specimens through a digital-physical integration strategy. The future vision of the project is to open up to other species datasets and provide APIs and SDKs for further development.
 
 ## Preview
 
@@ -44,6 +42,16 @@ Current specimens being displayed at museums are attempts and efforts of mankind
 
 ### Thu May 6 <!-- omit in toc -->
 
+- [x] [Force layout](https://observablehq.com/@dianaow/force-directed-graph-with-circle-packing/2)
+  - [x] Force layout in the gallery view
+- [x] Video
+  - [x] Finishing video script writing (The first edition)
+  - [x] 4-min demo video making
+- [x] Final review
+
+### Fri May 7 <!-- omit in toc -->
+
+- [x] Submit as the final project for MTF class by noon
 - [ ] Geo component
   - [ ] Dataset and data points
     - [ ] Request bird sound data
@@ -53,40 +61,43 @@ Current specimens being displayed at museums are attempts and efforts of mankind
   - [ ] Popup
     - [ ] Leaflet popup and styling
     - [ ] Media player
-- [ ] [Force layout](https://observablehq.com/@dianaow/force-directed-graph-with-circle-packing/2)
-  - [ ] Force layout in the gallery view
-  - [ ] Metadata panel in the gallery view
-- [ ] Panorama background with Three.js
-  - [ ] On-location shooting at Xixi Museum
-  - [ ] Mapping the AR comnnections
-- [ ] Video
-  - [ ] Finishing video script writing
-  - [ ] 4-min demo video making
-- [ ] Final review
-- [ ] Credit button
-
-### Fri May 7 <!-- omit in toc -->
-
-- [ ] Threats and Actions view
-- [ ] Final touches of Geo view: Area filter above the map
-- [ ] Submit as the final project for MTF class by noon
-- [ ] Dub the video
+- [ ] Prototype of Threats and Actions view
+- [ ] Prototype of the metadata panel in the gallery view
+- [ ] Keynote Preparing
+  - [x] Revise the script
+  - [ ] Proofreading the abstract with Jeanne
+  - [ ] 1 on 1 session with Chris Bost at 01:00 AM on May 8
 
 ### Sat May 8 <!-- omit in toc -->
 
-- [ ] 1 on 1 session with Chris Bost at 01:00 AM
-- [ ] Taxo view using Radial Tidy Tree
-- [ ] Force layout in the conservation view
+- [ ] New Prototype of Taxo Tree view
+- [ ] Conservation view
+  - [ ] Force layout in the conservation view
+  - [ ] 'Group by' feature in the conservation view
+  - [ ] Label of the group
+- [ ] Credit button
 
 ### Sun May 9<!-- omit in toc -->
 
-- [ ] Extra energy: 3D globe in the map view
+- [ ] Panorama background with Three.js
+  - [ ] On-location shooting at Xixi Museum
+  - [ ] Mapping the AR comnnections
+- [ ] Area filter above the map
 
 ### Mon May 10<!-- omit in toc -->
 
-### Tue May 11<!-- omit in toc -->
+- [ ] Keynote Preparing
+  - [ ] 1 on 1 session with Chris Bost at 22:00 PM
+  - [ ] Video Due: 05:00 AM on May 11 Beijing Time
 
-- [ ] Video Due: 05:00 AM Beijing Time
+### No Due Date: Post-keynote Implementation <!-- omit in toc -->
+
+- [ ] The metadata panel in the gallery view
+- [ ] 3D globe in the map view
+- [ ] Threats and Actions view
+- [ ] Color View
+- [ ] Taxo view using Radial Tidy Tree
+- [ ] Sorting and Filter features in every view
 
 ## To-do List by Component <!-- omit in toc -->
 
