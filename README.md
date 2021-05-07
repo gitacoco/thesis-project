@@ -1,6 +1,6 @@
-# Connected Birds <!-- omit in toc -->
+# Connected Specimens <!-- omit in toc -->
 
-## A framework for museums to expand the stories of displayed specimens through a digital-physical fusion strategy <!-- omit in toc -->
+## A low-cost framework for museums to expand the stories of displayed specimens<!-- omit in toc -->
 
 By [Zhibang Jiang](https://zhibang.design) | Video | Live Demo | Project Repo | Written Thesis | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
 
