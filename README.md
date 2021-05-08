@@ -52,6 +52,15 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 ### Fri May 7 <!-- omit in toc -->
 
 - [x] Submit as the final project for MTF class by noon
+- [x] Keynote Preparing
+  - [x] Revise the script
+  - [x] Write the Promo script
+  - [x] Hire a voice actor
+  - [x] Proofreading the abstract with Jeanne
+  - [x] 1 on 1 session with Chris Bost at 01:00 AM on May 8
+
+### Sat May 8 <!-- omit in toc -->
+
 - [ ] Geo component
   - [ ] Dataset and data points
     - [ ] Request bird sound data
@@ -62,20 +71,10 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
     - [ ] Leaflet popup and styling
     - [ ] Media player
 - [ ] Prototype of Threats and Actions view
-- [ ] Prototype of the metadata panel in the gallery view
-- [ ] Keynote Preparing
-  - [x] Revise the script
-  - [ ] Proofreading the abstract with Jeanne
-  - [ ] 1 on 1 session with Chris Bost at 01:00 AM on May 8
-
-### Sat May 8 <!-- omit in toc -->
-
-- [ ] New Prototype of Taxo Tree view
 - [ ] Conservation view
   - [ ] Force layout in the conservation view
   - [ ] 'Group by' feature in the conservation view
   - [ ] Label of the group
-- [ ] Credit button
 
 ### Sun May 9<!-- omit in toc -->
 
@@ -83,6 +82,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [ ] On-location shooting at Xixi Museum
   - [ ] Mapping the AR comnnections
 - [ ] Area filter above the map
+- [ ] New Prototype of Taxo Tree view
+- [ ] Prototype of the metadata panel in the gallery view
 
 ### Mon May 10<!-- omit in toc -->
 
@@ -92,6 +93,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ### No Due Date: Post-keynote Implementation <!-- omit in toc -->
 
+- [ ] Credit button
 - [ ] The metadata panel in the gallery view
 - [ ] 3D globe in the map view
 - [ ] Threats and Actions view
