@@ -424,8 +424,8 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 
 #### Indivisual Meeting Feedback for Final Touches
 
-1. One thing I'd really love to hear is kind of how some of the thoughts, concepts, critical issues we've talked about this semester have informed your work. Maybe that's something you would actually incorporate into your formal thesis video too. I just love to hear how our discussions over the semester have maybe informed the work you're doing.
-2. It's ok to be work-in-progress. And also there's no the divine law that says taht all work has to be finished to kind of 15 week semesters. It's alright what you submit is some parts of it fleshed out, others you mentioned future plans.
+1. One thing I'd really love to hear is how some of the thoughts, concepts, critical issues and our discussions we've talked about this semester have informed your work. Maybe that's something you would actually incorporate into your formal thesis video too.
+2. It's ok to be work-in-progress. And also there's no the divine law that says taht all work has to be finished to 15 week semesters. It's alright what you submit is some parts of it fleshed out, others you mentioned future plans.
 
 ### References
 
