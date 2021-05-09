@@ -491,7 +491,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 
 ### The Gallery View
 
-The gallery view is a digital replication of the exhibits at a real museum, meaning the dataset is constructed based on those exhibits and the items in this Gallery View are exactly same as those.
+The gallery view is digital replication of the exhibits at a real museum, meaning the dataset is constructed based on those exhibits, and the items in this Gallery View are exactly same as those.
 
 #### Macro Level: Overview
 
