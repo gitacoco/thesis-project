@@ -18,7 +18,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ## Feedback <!-- omit in toc -->
 
-- Jan 28: [Daniel - In-class Feedback for the Research Question*](#in-class-feedback)
+- Jan 28: Daniel - In-class Feedback for the Research Question [editing]
 - Feb 18: [Daniel - In-class Feedback for the Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
 - Mar 02: [Daniel & Classmates - In-class Feedback for the Prototypes](#in-class-feedback-1)
 - Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
