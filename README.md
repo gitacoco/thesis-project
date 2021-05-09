@@ -23,11 +23,12 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Mar 02: [Daniel - In-class Feedback for the Prototypes](#in-class-feedback-1)
 - Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
 - Mar 30: [Daniel - Indivisual Meeting Feedback for the Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
-- Apr 13: [Shannon - External Feedback for the Design Solution](#feedback)
+- Apr 13: [Shannon and Classmates - External Feedback for the Design Solution](#feedback)
 - Apr 8: [Daniel - In-class Feedback for the Development Process](#in-class-feedback-2)
 - Apr 15: [Daniel - Indivisual Meeting on the Development Process*](#in-class-feedback-3)
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
 - Apr 28: [Shannon - Indivisual Meeting on the Final Touches*](#indivisual-meeting-feedback-for-final-touches)
+- May 04: MTF Classmates - Breakout-room comments [editing]
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: Daniel, Alec & Ellie - The Feedback for the Final Review [editing]
 - May 07: Chris - Indivisual Meeting on the Presentation [editing]
@@ -91,15 +92,16 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ### Sun May 9<!-- omit in toc -->
 
-- [ ] Credit button
-- [ ] Prototype of Threats and Actions view
-- [ ] Conservation view
+- [ ] Panorama background with Three.js
+  - [x] On-location shooting in Xixi Museum
+  - [x] Mapping the AR comnnections
+  - [ ] reorder the items on the website
+- [ ] Prototype of the Threats and Actions view
+- [ ] the Conservation view
   - [ ] Force layout in the conservation view
   - [ ] 'Group by' feature in the conservation view
   - [ ] Label of the group
-- [ ] Panorama background with Three.js
-  - [ ] On-location shooting at Xixi Museum
-  - [ ] Mapping the AR comnnections
+  - [ ] Color encoding of the group pack
 
 ### Mon May 10<!-- omit in toc -->
 
@@ -109,6 +111,10 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [ ] 1 on 1 session with Chris Bost at 22:00 PM
   - [ ] Video Due: 05:00 AM on May 11 Beijing Time
 
+### Tue May 11<!-- omit in toc -->
+
+- [ ] Credit button
+  
 ### No Due Date: Post-keynote Implementation <!-- omit in toc -->
 
 - [ ] Area filter above the map
