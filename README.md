@@ -20,14 +20,14 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 - Jan 28: [Daniel - In-class Feedback for the Research Question*](#in-class-feedback)
 - Feb 18: [Daniel - In-class Feedback for the Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
-- Mar 02: [Daniel - In-class Feedback for the Prototypes](#in-class-feedback-1)
+- Mar 02: [Daniel & Classmates - In-class Feedback for the Prototypes](#in-class-feedback-1)
 - Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
-- Mar 30: [Daniel - Indivisual Meeting Feedback for the Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
-- Apr 13: [Shannon and Classmates - External Feedback for the Design Solution](#feedback)
-- Apr 8: [Daniel - In-class Feedback for the Development Process](#in-class-feedback-2)
-- Apr 15: [Daniel - Indivisual Meeting on the Development Process*](#in-class-feedback-3)
+- Mar 30: Daniel - Indivisual Meeting Feedback for the Design Refinement [editing]
+- Apr 13: [Shannon & Classmates - External Feedback for the Design Solution](#feedback)
+- Apr 8: [Daniel & Classmates - In-class Feedback for the Design Refinement](#in-class-feedback-2)
+- Apr 15: [Daniel - Indivisual Meeting on the Development Process*](#individual-meeting-feedback)
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
-- Apr 28: [Shannon - Indivisual Meeting on the Final Touches*](#indivisual-meeting-feedback-for-final-touches)
+- Apr 28: Shannon - Indivisual Meeting on the Final Touches [editing]
 - May 04: MTF Classmates - Breakout-room comments [editing]
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: Daniel, Alec & Ellie - The Feedback for the Final Review [editing]
@@ -257,7 +257,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
     - [Macro Level: Overview](#macro-level-overview)
       - [Design Review](#design-review)
       - [Development Process](#development-process)
-      - [In-class Feedback](#in-class-feedback-3)
+      - [Individual Meeting Feedback](#individual-meeting-feedback)
     - [Micro Level: Details-on-demand](#micro-level-details-on-demand)
       - [Design Review](#design-review-1)
       - [Development Process](#development-process-1)
@@ -509,7 +509,7 @@ I built a sortable and filterable grid of items using [Shuffle.js](https://vestr
 
 In addition, the ultimate appearance of items shoud be circles insdead of rectangles.
 
-##### In-class Feedback
+##### Individual Meeting Feedback
 
 #### Micro Level: Details-on-demand
 
