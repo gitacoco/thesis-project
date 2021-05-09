@@ -574,7 +574,7 @@ Towards these challenges, I found several cases and tutorials that could be help
 1. Most of my suggestions are about pacing. Maybe you don't need captions on every screen, but you should think about what screens are important to have your text exactly as you want it and which screens you maybe want to leave a little bit space so you can catch up if you need to.
 2. Maybe set the context of "this is a potential tool for especially a museum that doesn't have the resources to build their own fancy technology" earlier. I though that was a really interesting way to provide context but you mentioned it most of the way through the presentation.
 
-Daniel:
+**Daniel:**
 
 1. The production has closed captioning.
 2. Give the moment for diagrams to talk for itself. What's going on with these diagrams. We are looking at things and you're with us as the guide.
@@ -583,8 +583,9 @@ Daniel:
 
 #### Breakout rooms in the final class
 
-Blake: Are you planning on or have you already sent this to a museum as a real exhibit?
-Me: Yes. At this stage I take the exhibits in the National Wetland Museum of China as my basis or the starting point. Next step I would involve more species and museums. Also user studies would be conducted.
+- Blake: Are you planning on or have you already sent this to a museum as a real exhibit?
+
+- Me: Yes. At this stage I take the exhibits in the National Wetland Museum of China as my basis or the starting point. Next step I would involve more species and museums. Also user studies would be conducted.
 
 Galen: It adds so much of life to those animals that have been stuffed in museums. It's a funny way of putting it but you can go on this App and you can see all sorts of information. It makes me feel like I'm an ornithologist even though I know almost nothing about birds. So much more interactive in a way that you're not getting rid of an exhibit but you're making it a lot more elaborate.
 
