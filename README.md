@@ -499,7 +499,7 @@ The gallery view is digital replication of the exhibits at a real museum, meanin
 
 ##### Design Review
 
-This view utilizes the power of small multiples and provides vistors an opportunity to reorganize the static museum species through preset dimensions that could be color encoded in the stroke of the item, forming an augmentation of the in-person exhibits.
+This view utilizes the power of small multiples and provides vistors an opportunity to reorganize the static museum specimens through preset dimensions that could be color encoded in the stroke of the item, forming an augmentation of the in-person exhibits.
 
 ![overview](./prototype/p1.jpg)
 
