@@ -27,7 +27,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Apr 8: [Daniel & Classmates - In-class Feedback for the Design Refinement](#in-class-feedback-2)
 - Apr 15: Daniel - Indivisual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
-- Apr 28: Shannon - Indivisual Meeting on the Final Touches [editing]
+- Apr 28: [Shannon - Indivisual Meeting on the Final Touches]((#indivisual-meeting-feedback-for-final-touches))
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class)
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
@@ -241,7 +241,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
       - [Descriptive commentary reflecting on the mission of each map](#descriptive-commentary-reflecting-on-the-mission-of-each-map)
       - [Accessories to enhance the self-explanatory and intuitive features of the atlas](#accessories-to-enhance-the-self-explanatory-and-intuitive-features-of-the-atlas)
       - [Expanding accessibility for scenarios](#expanding-accessibility-for-scenarios)
-    - [Indivisual Meeting Feedback for Final Touches*](#indivisual-meeting-feedback-for-final-touches)
+    - [Indivisual Meeting Feedback for Final Touches](#indivisual-meeting-feedback-for-final-touches)
   - [References](#references)
     - [Histories of Natural History (Museums), Cultures of Display](#histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
@@ -422,7 +422,10 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 1. Provide the simulation of the in-person experience in the cyberspace
 2. Provide home-based experience using learning kits as the analog of the museum settings for kids
 
-#### Indivisual Meeting Feedback for Final Touches*
+#### Indivisual Meeting Feedback for Final Touches
+
+1. One thing I'd really love to hear is kind of how some of the thoughts, concepts, critical issues we've talked about this semester have informed your work. Maybe that's something you would actually incorporate into your formal thesis video too. I just love to hear how our discussions over the semester have maybe informed the work you're doing.
+2. It's ok to be work-in-progress. And also there's no the divine law that says taht all work has to be finished to kind of 15 week semesters. It's alright what you submit is some parts of it fleshed out, others you mentioned future plans.
 
 ### References
 
@@ -564,13 +567,11 @@ Towards these challenges, I found several cases and tutorials that could be help
 **Ellie:**
 
 1. Back to this podcast that I listened to about how trees are connected. Through their roots and so I was thinking it would be some sort of mental connection thing. So I don't know if I ever heard you actually say **what connection means** in the context of your database. And I think that would be an important thing to **put at the forefront of your presentation**.
-
 2. And the last slide where you talk about the solutions for all museums. Felt disconnected from your database. I know it can be important to talk about how valuable this technology is. But it didn't feel like the core of what you're trying to say with your DataVis is and could be bossibly moved up so that you end on - this is the connection of this database, and this is how this can be visualized rather than the technonoly.
 
 **Alec:**
 
 1. Most of my suggestions are about pacing. Maybe you don't need captions on every screen, but you should think about what screens are important to have your text exactly as you want it and which screens you maybe want to leave a little bit space so you can catch up if you need to.
-
 2. Maybe set the context of "this is a potential tool for especially a museum that doesn't have the resources to build their own fancy technology" earlier. I though that was a really interesting way to provide context but you mentioned it most of the way through the presentation.
 
 Daniel:
