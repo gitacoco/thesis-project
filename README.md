@@ -28,11 +28,11 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Apr 15: [Daniel - Indivisual Meeting on the Development Process*](#individual-meeting-feedback)
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
 - Apr 28: Shannon - Indivisual Meeting on the Final Touches [editing]
-- May 04: MTF Classmates - Breakout-room comments [editing]
+- May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class))
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: Daniel, Alec & Ellie - The Feedback for the Final Review [editing]
-- May 07: Chris - Indivisual Meeting on the Presentation [editing]
-- May 08: [Shannon - Written and Oral Feedback for the Final Atlas](#shannon-final-atlas-feedback)
+- May 07: [Chris - Indivisual Meeting on the Presentation](#may-7-individual-meeting)
+- May 08: [Shannon - Feedback for the Final Atlas](#shannon-final-atlas-feedback)
 
 ## Last-mile to-do List by Date <!-- omit in toc -->
 
@@ -267,6 +267,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [MTF class](#mtf-class)
     - [Breakout rooms in the final class](#breakout-rooms-in-the-final-class)
     - [Shannon: Final Atlas Feedback](#shannon-final-atlas-feedback)
+  - [Chris Bost](#chris-bost)
+    - [May 7 Individual Meeting](#may-7-individual-meeting)
 - [Branding](#branding)
   - [Keynote Video](#keynote-video)
   - [Landing Page](#landing-page)
@@ -560,11 +562,19 @@ Towards these challenges, I found several cases and tutorials that could be help
 
 #### Breakout rooms in the final class
 
+Blake: Are you planning on or have you already sent this to a museum as a real exhibit?
+
 #### Shannon: Final Atlas Feedback
 
 I want to repeat my earlier praise for the ethical commitments underlying this work: the fact that you want to develop tools that pool the resources of museums so all can benefit, especially less-well-resourced institutions. What you’re offering won’t require expensive and intensive infrastructure upgrades.
 
 I appreciate the variety of modes of engagement — through sound, color, taxonomy, conservation status, threats + actions, and more to come — you’ve facilitated, all of which support your goals of “expanding the stories” of each displayed specimen *and* building dialogues between physical installations and digital interfaces. You’re also building dialogues between institutions and datasets and disciplinary knowledges! I mention in my audio note what particular  insights these five modes of engagement might allow — and while I realize that some are still works in progress, and I don’t quite understand how they’ll function, I do see their potential! And I’m eager to see the *new* functionality you plan to implement in future upgrades — both over the next few days and into the future. I’m especially eager to see how the panorama / AR component will further bridge physical and digital interfaces *and* how the credits and citations will root your project within a broader interdisciplinary dialogues and embody the generous, dialogic ethic that underlies your work.
+
+### Chris Bost
+
+#### May 7 Individual Meeting
+
+The pace is good, and tone is natural. If leave a pause after each section to let the audience appreciate the design/UI/visual elements, the presentation could be better.
 
 ## Branding
 
