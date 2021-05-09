@@ -61,39 +61,40 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ### Sat May 8 <!-- omit in toc -->
 
-- [ ] Geo component
-  - [ ] Dataset and data points
-    - [ ] Request bird sound data
-    - [ ] Populate data into the map
-  - [ ] Filters
-    - [ ] Data filter by clicking items
-  - [ ] Popup
-    - [ ] Leaflet popup and styling
-    - [ ] Media player
+- [x] Geo component
+  - [x] Dataset and data points
+    - [x] Request bird sound data
+    - [x] Populate data into the map
+  - [x] Filters
+    - [x] Data filter by clicking items
+  - [x] Popup
+    - [x] Leaflet popup
+    - [ ] Popup styling
+    - [x] Media player
+
+### Sun May 9<!-- omit in toc -->
+
+- [ ] Credit button
 - [ ] Prototype of Threats and Actions view
 - [ ] Conservation view
   - [ ] Force layout in the conservation view
   - [ ] 'Group by' feature in the conservation view
   - [ ] Label of the group
-
-### Sun May 9<!-- omit in toc -->
-
 - [ ] Panorama background with Three.js
   - [ ] On-location shooting at Xixi Museum
   - [ ] Mapping the AR comnnections
-- [ ] Area filter above the map
-- [ ] New Prototype of Taxo Tree view
-- [ ] Prototype of the metadata panel in the gallery view
 
 ### Mon May 10<!-- omit in toc -->
 
+- [ ] New Prototype of Taxo Tree view
+- [ ] Prototype of the metadata panel in the gallery view
 - [ ] Keynote Preparing
   - [ ] 1 on 1 session with Chris Bost at 22:00 PM
   - [ ] Video Due: 05:00 AM on May 11 Beijing Time
 
 ### No Due Date: Post-keynote Implementation <!-- omit in toc -->
 
-- [ ] Credit button
+- [ ] Area filter above the map
 - [ ] The metadata panel in the gallery view
 - [ ] 3D globe in the map view
 - [ ] Threats and Actions view
