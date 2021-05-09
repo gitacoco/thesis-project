@@ -264,6 +264,9 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
       - [One-on-one Feedback](#one-on-one-feedback)
       - [Guest Feedback](#guest-feedback)
 - [More Feedback](#more-feedback)
+  - [MTF class](#mtf-class)
+    - [Breakout rooms in the final class](#breakout-rooms-in-the-final-class)
+    - [Shannon: Final Atlas Feedback](#shannon-final-atlas-feedback)
 - [Branding](#branding)
   - [Keynote Video](#keynote-video)
   - [Landing Page](#landing-page)
@@ -553,11 +556,11 @@ Towards these challenges, I found several cases and tutorials that could be help
 
 ## More Feedback
 
-### MTF class <!-- omit in toc -->
+### MTF class
 
-#### Breakout rooms in the final class <!-- omit in toc -->
+#### Breakout rooms in the final class
 
-#### Shannon: Final Atlas Feedback <!-- omit in toc -->
+#### Shannon: Final Atlas Feedback
 
 I want to repeat my earlier praise for the ethical commitments underlying this work: the fact that you want to develop tools that pool the resources of museums so all can benefit, especially less-well-resourced institutions. What you’re offering won’t require expensive and intensive infrastructure upgrades.
 
