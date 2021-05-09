@@ -30,7 +30,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Apr 28: Shannon - Indivisual Meeting on the Final Touches [editing]
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class))
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
-- May 06: Daniel, Alec & Ellie - The Feedback for the Final Review [editing]
+- May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
 - May 07: [Chris - Indivisual Meeting on the Presentation](#may-7-individual-meeting)
 - May 08: [Shannon - Feedback for the Final Atlas](#shannon-final-atlas-feedback)
 
@@ -264,6 +264,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
       - [One-on-one Feedback](#one-on-one-feedback)
       - [Guest Feedback](#guest-feedback)
 - [More Feedback](#more-feedback)
+  - [Final review feedback](#final-review-feedback)
   - [MTF class](#mtf-class)
     - [Breakout rooms in the final class](#breakout-rooms-in-the-final-class)
     - [Shannon: Final Atlas Feedback](#shannon-final-atlas-feedback)
@@ -558,11 +559,33 @@ Towards these challenges, I found several cases and tutorials that could be help
 
 ## More Feedback
 
+### Final review feedback
+
+**Ellie:**
+
+1. Back to this podcast that I listened to about how trees are connected. Through their roots and so I was thinking it would be some sort of mental connection thing. So I don't know if I ever heard you actually say **what connection means** in the context of your database. And I think that would be an important thing to **put at the forefront of your presentation**.
+
+2. And the last slide where you talk about the solutions for all museums. Felt disconnected from your database. I know it can be important to talk about how valuable this technology is. But it didn't feel like the core of what you're trying to say with your DataVis is and could be bossibly moved up so that you end on - this is the connection of this database, and this is how this can be visualized rather than the technonoly.
+
+**Alec:**
+
+1. Most of my suggestions are about pacing. Maybe you don't need captions on every screen, but you should think about what screens are important to have your text exactly as you want it and which screens you maybe want to leave a little bit space so you can catch up if you need to.
+
+2. Maybe set the context of "this is a potential tool for especially a museum that doesn't have the resources to build their own fancy technology" earlier. I though that was a really interesting way to provide context but you mentioned it most of the way through the presentation.
+
+Daniel:
+
+1. The production has closed captioning.
+2. Give the moment for diagrams to talk for itself. What's going on with these diagrams. We are looking at things and you're with us as the guide.
+
 ### MTF class
 
 #### Breakout rooms in the final class
 
 Blake: Are you planning on or have you already sent this to a museum as a real exhibit?
+Me: Yes. At this stage I take the exhibits in the National Wetland Museum of China as my basis or the starting point. Next step I would involve more species and museums. Also user studies would be conducted.
+
+Galen: It adds so much of life to those animals that have been stuffed in museums. It's a funny way of putting it but you can go on this App and you can see all sorts of information. It makes me feel like I'm an ornithologist even though I know almost nothing about birds. So much more interactive in a way that you're not getting rid of an exhibit but you're making it a lot more elaborate.
 
 #### Shannon: Final Atlas Feedback
 
