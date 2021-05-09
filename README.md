@@ -23,8 +23,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Mar 02: [Daniel & Classmates - In-class Feedback for the Prototypes](#in-class-feedback-2)
 - Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
 - Mar 30: Daniel - Indivisual Meeting Feedback for the Design Refinement [editing]
+- Apr 8: Daniel & Classmates - In-class Feedback for the Design Refinement [editing]
 - Apr 13: [Shannon & Classmates - External Feedback for the Design Solution](#feedback)
-- Apr 8: [Daniel & Classmates - In-class Feedback for the Design Refinement](#in-class-feedback-2)
 - Apr 15: Daniel - Indivisual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
 - Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#indivisual-meeting-feedback-for-final-touches)
