@@ -27,7 +27,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Apr 8: [Daniel & Classmates - In-class Feedback for the Design Refinement](#in-class-feedback-2)
 - Apr 15: Daniel - Indivisual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
-- Apr 28: [Shannon - Indivisual Meeting on the Final Touches]((#indivisual-meeting-feedback-for-final-touches))
+- Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#indivisual-meeting-feedback-for-final-touches)
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class)
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
