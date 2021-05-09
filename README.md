@@ -16,6 +16,23 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ## Acknowledgements
 
+## Feedback <!-- omit in toc -->
+
+- Jan 28: [Daniel - In-class Feedback for the Research Question*](#in-class-feedback)
+- Feb 18: [Daniel - In-class Feedback for the Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
+- Mar 02: [Daniel - In-class Feedback for the Prototypes](#in-class-feedback-1)
+- Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
+- Mar 30: [Daniel - Indivisual Meeting Feedback for the Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
+- Apr 13: [Shannon - External Feedback for the Design Solution](#feedback)
+- Apr 8: [Daniel - In-class Feedback for the Development Process](#in-class-feedback-2)
+- Apr 15: [Daniel - Indivisual Meeting on the Development Process*](#in-class-feedback-3)
+- Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
+- Apr 28: [Shannon - Indivisual Meeting on the Final Touches*](#indivisual-meeting-feedback-for-final-touches)
+- May 04: Daniel - Indivisual Meeting on the Presentation [editing]
+- May 06: Daniel, Alec & Ellie - The Feedback for the Final Review [editing]
+- May 07: Chris - Indivisual Meeting on the Presentation [editing]
+- May 08: [Shannon - Written and Oral Feedback for the Final Atlas](#shannon-final-atlas-feedback)
+
 ## Last-mile to-do List by Date <!-- omit in toc -->
 
 ### Tue May 4 <!-- omit in toc -->
@@ -158,15 +175,15 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
     - [x] **May 03** Created ordinal scale of color based on the depth of nodes
     - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
     - [ ] More 'Group By' options: i.e. population trends
-  - [ ] Geo View
-    - [ ] Get bird song data with latitude and longitude
-    - [ ] List panel
-    - [ ] Map component
+  - [x] Geo View
+    - [x] Get bird song data with latitude and longitude
+    - [x] List panel
+    - [x] Map component
     - [ ] Habitat lens (waiting for the responds from BirdLife)
   - [ ] Taxonomy View
-    - [ ] **May 03** taxon node parents
-    - [ ] **May 03** stratify data and layout generater
-    - [ ] **May 03** data management and view transitions
+    - [ ] taxon node parents
+    - [ ] stratify data and layout generater
+    - [ ] data management and view transitions
     - [ ] styling
   - [ ] Color-sorting View
   - [ ] **Pending** Evolution Tree: Phylogeny View
@@ -187,24 +204,9 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [ ] `alt=''` property for buttons and pictures
 - [ ] Final touches
 - [ ] Keynote Presentation
-  - [ ] **May 02** Script Writing
-  - [ ] **May 02** Request a dubbing of script
-  - [ ] **May 04** Video mock up
-
-## Feedback <!-- omit in toc -->
-
-- Jan 28: [In-class Feedback for Research Question*](#in-class-feedback)
-- Feb 18: [In-class Feedback for Storyboard and Wireframe](#storyboard-and-wireframe-feb-18)
-- Mar 02: [In-class Feedback for Prototypes](#in-class-feedback-1)
-- Mar 10 & 14: [External Feedback for Prototypes](#external-discussion)
-- Mar 30: [Indivisual Meeting Feedback for Design Refinement*](#indivisual-meeting-feedback-for-design-refinement)
-- Apr 13: [External Feedback for the Design Solution](#feedback)
-- Apr 8: [In-class Feedback for Development Process](#in-class-feedback-2)
-- Apr 15: [Daniel Indivisual Meeting Feedback for Development Process*](#in-class-feedback-3)
-- Apr 20: [Guest Feedback for Development Process](#guest-feedback)
-- Apr 28: [Shannon Indivisual Meeting Feedback for Final Touches*](#indivisual-meeting-feedback-for-final-touches)
-- May 04: Indivisual Meeting Feedback Final Presentation [incoming]
-- May 06: Feedback of Final Review [incoming]
+  - [x] Script Writing
+  - [ ] dubbing of script
+  - [ ] Video mock up
 
 ## Table of Contents <!-- omit in toc -->
 <!-- TOC -->
@@ -255,6 +257,11 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
       - [Development Process](#development-process-1)
       - [One-on-one Feedback](#one-on-one-feedback)
       - [Guest Feedback](#guest-feedback)
+- [More Feedback](#more-feedback)
+- [Branding](#branding)
+  - [Keynote Video](#keynote-video)
+  - [Landing Page](#landing-page)
+- [Written Thesis](#written-thesis)
 <!-- /TOC -->
 
 ## Research & Design
@@ -538,8 +545,22 @@ Towards these challenges, I found several cases and tutorials that could be help
 - <https://merlin.allaboutbirds.org/> ➡️ color sorting
 - Consider stroke in grid view to become categoric color.
 
-<!-- ## Branding
+## More Feedback
+
+### MTF class <!-- omit in toc -->
+
+#### Breakout rooms in the final class <!-- omit in toc -->
+
+#### Shannon: Final Atlas Feedback <!-- omit in toc -->
+
+I want to repeat my earlier praise for the ethical commitments underlying this work: the fact that you want to develop tools that pool the resources of museums so all can benefit, especially less-well-resourced institutions. What you’re offering won’t require expensive and intensive infrastructure upgrades.
+
+I appreciate the variety of modes of engagement — through sound, color, taxonomy, conservation status, threats + actions, and more to come — you’ve facilitated, all of which support your goals of “expanding the stories” of each displayed specimen *and* building dialogues between physical installations and digital interfaces. You’re also building dialogues between institutions and datasets and disciplinary knowledges! I mention in my audio note what particular  insights these five modes of engagement might allow — and while I realize that some are still works in progress, and I don’t quite understand how they’ll function, I do see their potential! And I’m eager to see the *new* functionality you plan to implement in future upgrades — both over the next few days and into the future. I’m especially eager to see how the panorama / AR component will further bridge physical and digital interfaces *and* how the credits and citations will root your project within a broader interdisciplinary dialogues and embody the generous, dialogic ethic that underlies your work.
+
+## Branding
+
 ### Keynote Video
+
 ### Landing Page
 
-## Written Thesis -->
+## Written Thesis
