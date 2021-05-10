@@ -587,7 +587,7 @@ Towards these challenges, I found several cases and tutorials that could be help
 
 - Me: Yes. At this stage I take the exhibits in the National Wetland Museum of China as my basis or the starting point. Next step I would involve more species and museums. Also user studies would be conducted.
 
-Galen: It adds so much of life to those animals that have been stuffed in museums. It's a funny way of putting it but you can go on this App and you can see all sorts of information. It makes me feel like I'm an ornithologist even though I know almost nothing about birds. So much more interactive in a way that you're not getting rid of an exhibit but you're making it a lot more elaborate.
+- Galen: It adds so much of life to those animals that have been stuffed in museums. It's a funny way of putting it but you can go on this App and you can see all sorts of information. It makes me feel like I'm an ornithologist even though I know almost nothing about birds. So much more interactive in a way that you're not getting rid of an exhibit but you're making it a lot more elaborate.
 
 #### Shannon: Final Atlas Feedback
 
