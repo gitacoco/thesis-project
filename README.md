@@ -37,7 +37,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - May 07: [Chris - Indivisual Meeting on the Presentation](#may-7-individual-meeting)
 - May 08: [Shannon - Feedback for the Final Atlas](#shannon-final-atlas-feedback)
 
-## Table of Contents <!-- omit in toc -->
+## Process <!-- omit in toc -->
 <!-- TOC -->
 - [Abstract](#abstract)
 - [Preview](#preview)
