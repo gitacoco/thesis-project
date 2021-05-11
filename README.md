@@ -6,18 +6,18 @@ By [Zhibang Jiang](https://zhibang.design) | Video | [Live Demo](https://connect
 
 Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design
 
-## Abstract
+## Abstract <!-- omit in toc -->
 
 The specimens nowadays on display in museums are the attempts and efforts of human wisdom to create traces of species that once existed, to represent their appearance, and, for the species that are still here, to resist their disappearance. But there is an experiential divide between the stories offered by museums and visitors’ desire to go further, between digital interfaces and physical settings, and between developed and less developed regions. This project creates a low-cost, data-driven framework that leverages the scalability of digital media and the perceptibility of real-world objects to breathe new life into exhibits and enhance the in-person engagement in museums. The project will first focus on bird species at the National Wetland Museum of China, enhancing visitors' cognitive experience of the specimens through a digital-physical integration strategy. The future vision of the project is to open up to other species datasets and provide APIs and SDKs for further development.
 
-## Preview
+## Preview <!-- omit in toc -->
 
 ![Image of preview](./pics/preview.jpg)
 ![Image of preview](./pics/preview2.jpg)
 ![Image of preview](./pics/preview3.jpg)
 ![Image of preview](./pics/preview4.jpg)
 
-## Acknowledgements
+## Acknowledgements <!-- omit in toc -->
 
 ## Feedback <!-- omit in toc -->
 
@@ -30,7 +30,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - Apr 13: [Shannon & Classmates - External Feedback for the Design Solution](#feedback)
 - Apr 15: Daniel - Indivisual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
-- Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#indivisual-meeting-feedback-for-final-touches)
+- Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#feedback-1)
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class)
 - May 04: Daniel - Indivisual Meeting on the Presentation [editing]
 - May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
@@ -39,9 +39,6 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ## Process <!-- omit in toc -->
 <!-- TOC -->
-- [Abstract](#abstract)
-- [Preview](#preview)
-- [Acknowledgements](#acknowledgements)
 - [Research & Design](#research--design)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
@@ -58,13 +55,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [The Whole Story (Apr 13)](#the-whole-story-apr-13)
     - [Slides](#slides)
     - [Feedback](#feedback)
-    - [Thoughts on Final Touches](#thoughts-on-final-touches)
-      - [Narratively thematic navigations through the collection](#narratively-thematic-navigations-through-the-collection)
-      - [Transitions as the connective threads between individual maps](#transitions-as-the-connective-threads-between-individual-maps)
-      - [Descriptive commentary reflecting on the mission of each map](#descriptive-commentary-reflecting-on-the-mission-of-each-map)
-      - [Accessories to enhance the self-explanatory and intuitive features of the atlas](#accessories-to-enhance-the-self-explanatory-and-intuitive-features-of-the-atlas)
-      - [Expanding accessibility for scenarios](#expanding-accessibility-for-scenarios)
-    - [Indivisual Meeting Feedback for Final Touches](#indivisual-meeting-feedback-for-final-touches)
+    - [Thoughts on the final touches](#thoughts-on-the-final-touches)
+    - [Feedback](#feedback-1)
   - [Potential References](#potential-references)
     - [Histories of Natural History (Museums), Cultures of Display](#histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
@@ -224,31 +216,33 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
   - Sherry Manzar: This is such an amazing outlook into the questions around what a collection is and can be. Really well-done!
   - Oscar Fossum: Everyone appreciates an interactive museum exhibition. I love being able to deep dive on a single presentation. Your work could provide “thick descriptions” to go deeper into the histories and connections between museum-things! Awesome, Zhibang!
 
-#### Thoughts on Final Touches
+#### Thoughts on the final touches
 
-##### Narratively thematic navigations through the collection
+##### Narratively thematic navigations through the collection <!-- omit in toc -->
 
 1. Theme-related navigating options
 2. Preset stories of selected species with captions as the guidance for atlas visitors
 
-##### Transitions as the connective threads between individual maps
+##### Transitions as the connective threads between individual maps <!-- omit in toc -->
 
 1. How transition enhance the human perception and cognition
 
-##### Descriptive commentary reflecting on the mission of each map
+##### Descriptive commentary reflecting on the mission of each map <!-- omit in toc -->
 
-##### Accessories to enhance the self-explanatory and intuitive features of the atlas
+##### Accessories to enhance the self-explanatory and intuitive features of the atlas <!-- omit in toc -->
 
 1. Add more hints or signifiers for user interactions
 2. Introduce Naïve Analogy1 methodology for non-professional users
 3. Use the splash page as prefaces; add legends and citations for the data
 
-##### Expanding accessibility for scenarios
+##### Expanding accessibility for scenarios <!-- omit in toc -->
 
 1. Provide the simulation of the in-person experience in the cyberspace
 2. Provide home-based experience using learning kits as the analog of the museum settings for kids
 
-#### Indivisual Meeting Feedback for Final Touches
+#### Feedback
+
+**Shannon:**
 
 1. One thing I'd really love to hear is how some of the thoughts, concepts, critical issues and our discussions we've talked about this semester have informed your work. Maybe that's something you would actually incorporate into your formal thesis video too.
 2. It's ok to be work-in-progress. And also there's no the divine law that says taht all work has to be finished to 15 week semesters. It's alright what you submit is some parts of it fleshed out, others you mentioned future plans.
