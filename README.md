@@ -37,186 +37,6 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - May 07: [Chris - Indivisual Meeting on the Presentation](#may-7-individual-meeting)
 - May 08: [Shannon - Feedback for the Final Atlas](#shannon-final-atlas-feedback)
 
-## Last-mile to-do List by Date <!-- omit in toc -->
-
-### Tue May 4 <!-- omit in toc -->
-
-- [x] The framework of the data-driven map
-- [x] Mock count/filter/sorter/stories footer
-- [x] 1 on 1 session with Daniel
-
-### Wed May 5 <!-- omit in toc -->
-
-- [x] Geo component
-  - [x] Item list
-    - [x] Style the list of items
-    - [x] Created the transition of item containers
-    - [x] Adjust the direction of the transition of container width
-  - [x] Map elements
-    - [x] Adjust the position of zoom control
-    - [x] Set map bound
-    - [x] Constrain vertical scroll at the minzoom level
-    - [x] Set the corners of world map
-- [x] Transition optimization
-  - [x] Optimized the performance of transition: avoiding switch fuction, using ternary operator instead
-  - [x] Canvas transition differences between different views (ternary operator)
-
-### Thu May 6 <!-- omit in toc -->
-
-- [x] [Force layout](https://observablehq.com/@dianaow/force-directed-graph-with-circle-packing/2)
-  - [x] Force layout in the gallery view
-- [x] Video
-  - [x] Finishing video script writing (The first edition)
-  - [x] 4-min demo video making
-- [x] Final review
-
-### Fri May 7 <!-- omit in toc -->
-
-- [x] Submit as the final project for MTF class by noon
-- [x] Keynote Preparing
-  - [x] Revise the script
-  - [x] Write the Promo script
-  - [x] Hire a voice actor
-  - [x] Proofreading the abstract with Jeanne
-  - [x] 1 on 1 session with Chris Bost at 01:00 AM on May 8
-
-### Sat May 8 <!-- omit in toc -->
-
-- [x] Geo component
-  - [x] Dataset and data points
-    - [x] Request bird sound data
-    - [x] Populate data into the map
-  - [x] Filters
-    - [x] Data filter by clicking items
-  - [x] Popup
-    - [x] Leaflet popup
-    - [ ] Popup styling
-    - [x] Media player
-
-### Sun May 9<!-- omit in toc -->
-
-- [ ] Panorama background with Three.js
-  - [x] On-location shooting in Xixi Museum
-  - [x] Mapping the AR comnnections
-  - [ ] reorder the items on the website
-- [ ] Prototype of the Threats and Actions view
-- [ ] the Conservation view
-  - [ ] Force layout in the conservation view
-  - [ ] 'Group by' feature in the conservation view
-  - [ ] Label of the group
-  - [ ] Color encoding of the group pack
-
-### Mon May 10<!-- omit in toc -->
-
-- [ ] New Prototype of Taxo Tree view
-- [ ] Prototype of the metadata panel in the gallery view
-- [ ] Keynote Preparing
-  - [ ] 1 on 1 session with Chris Bost at 22:00 PM
-  - [ ] Video Due: 05:00 AM on May 11 Beijing Time
-
-### Tue May 11<!-- omit in toc -->
-
-- [ ] Credit button
-  
-### No Due Date: Post-keynote Implementation <!-- omit in toc -->
-
-- [ ] Area filter above the map
-- [ ] The metadata panel in the gallery view
-- [ ] 3D globe in the map view
-- [ ] Threats and Actions view
-- [ ] Color View
-- [ ] Taxo view using Radial Tidy Tree
-- [ ] Sorting and Filter features in every view
-
-## To-do List by Component <!-- omit in toc -->
-
-- [ ] Datasets
-  - [x] **Apr 27** Modify the birdcode
-  - [x] **Apr 27** Add conservation status data
-  - [x] **Apr 27** Add common name data
-  - [x] **Apr 28** Add population trend data
-  - [x] **May 01** Using node.js to request data
-  - [x] **May 01** [Threats](https://www.iucnredlist.org/resources/threat-classification-scheme)/[Actions](https://www.iucnredlist.org/resources/conservation-actions-classification-scheme) Data
-  - [x] **May 01** Taxonomy Data
-  - [ ] Bird song Data
-  - [x] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
-- [ ] Fundamental components
-  - [ ] Menu
-    - [x] **Apr 29** Data-driven menu
-    - [x] **Apr 29** Set the `::before`, `::after` effects
-    - [x] **Apr 30** Style the menu with icons (spent a whole day)
-    - [x] **Apr 25** Set the control bar `fixed`
-    - [ ] 'Back to the gallery' button
-    - [ ] Search Function
-  - [ ] Page footer
-    - [ ] Page footer for item counts, sorting & filtering feature, preset stories
-  - [x] Webpage Layout
-    - [x] ~~Responsive Grid Layout or~~
-    - [x] **Apr 25** Embed the webpage into iframe mockup
-    - [x] **Apr 25** Resize webpage with locked aspect ratio
-    - [ ] Resize webpage for high resolution environments
-    - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
-- [ ] Gallery View
-  - [x] List of the items
-    - [x] Optimize the performance of SVG image => Resize image
-  - [x] Name of the items
-    - [x] ~~Normal name instead of sci name~~
-    - [x] ~~Toggle word wrap or~~
-    - [x] **Apr 25** No labels
-  - [ ] Sorting in the gallery view
-    - [ ]  Sorting by conservation status
-    - [ ]  Color encoding in the stroke
-    - [x]  **Apr 29** Add Key Function to avoid disorder id
-    - [x]  **Apr 28** Add State management
-- [ ] **May 03** Details-on-Demand view
-  - [x] **Apr 27** Popup when hovering
-  - [ ] Panel for individual species
-    - [ ] Force layout transform in the gallery view
-    - [ ] Data construction and display strategy
-    - [ ] multi-modal: voice of birds
-  - [x] ~~The modality for entering a secondary view~~
-  - [ ] State lock of selection when views change
-- [ ] Macro-level views
-  - [ ] **May 02** Grouping View
-    - [x] **Apr 26** Learn D3 laybouts
-    - [x] **Apr 26** Hierarchical layouts
-    - [x] **May 02** Grouping by conservation status
-    - [x] **May 03** Created ordinal scale of color based on the depth of nodes
-    - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
-    - [ ] More 'Group By' options: i.e. population trends
-  - [x] Geo View
-    - [x] Get bird song data with latitude and longitude
-    - [x] List panel
-    - [x] Map component
-    - [ ] Habitat lens (waiting for the responds from BirdLife)
-  - [ ] Taxonomy View
-    - [ ] taxon node parents
-    - [ ] stratify data and layout generater
-    - [ ] data management and view transitions
-    - [ ] styling
-  - [ ] Color-sorting View
-  - [ ] **Pending** Evolution Tree: Phylogeny View
-    - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
-    - [ ] Code: Right-angle phylograms and [circular dendrograms](http://bl.ocks.org/kueda/1036776) with d3
-    - [ ] BirdTree.org [phylogeny subsets](https://birdtree.org/subsets/)
-    - [ ] [iTOL](https://itol.embl.de/) Interactive Tree of Life
-    - [ ] Need more thoughts on Naive Nnalogy
-  - [ ] **May 02** Threats & Actions
-    - [ ] Data construction: from many-to-many to one-to-many relationships
-    - [x] **Apr 29** Transitions from other view
-    - [x] **Apr 29** Resize and restyle circle elements during transitions
-    - [x] **Apr 29** Change hovering behavior in different views through `swicth` conditionals
-- [x] Add Transitions to circles
-- [ ] Recognition component
-  - [ ] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
-- [ ] Accessibility
-  - [ ] `alt=''` property for buttons and pictures
-- [ ] Final touches
-- [ ] Keynote Presentation
-  - [x] Script Writing
-  - [ ] dubbing of script
-  - [ ] Video mock up
-
 ## Table of Contents <!-- omit in toc -->
 <!-- TOC -->
 - [Abstract](#abstract)
@@ -278,6 +98,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [Keynote Video](#keynote-video)
   - [Landing Page](#landing-page)
 - [Written Thesis](#written-thesis)
+- [Last-mile to-do list by date](#last-mile-to-do-list-by-date)
+- [To-do list by component](#to-do-list-by-component)
 <!-- /TOC -->
 
 ## Research & Design
@@ -620,3 +442,183 @@ The pace is good, and tone is natural. If leave a pause after each section to le
 ### Landing Page
 
 ## Written Thesis
+
+## Last-mile to-do list by date
+
+### Tue May 4 <!-- omit in toc -->
+
+- [x] The framework of the data-driven map
+- [x] Mock count/filter/sorter/stories footer
+- [x] 1 on 1 session with Daniel
+
+### Wed May 5 <!-- omit in toc -->
+
+- [x] Geo component
+  - [x] Item list
+    - [x] Style the list of items
+    - [x] Created the transition of item containers
+    - [x] Adjust the direction of the transition of container width
+  - [x] Map elements
+    - [x] Adjust the position of zoom control
+    - [x] Set map bound
+    - [x] Constrain vertical scroll at the minzoom level
+    - [x] Set the corners of world map
+- [x] Transition optimization
+  - [x] Optimized the performance of transition: avoiding switch fuction, using ternary operator instead
+  - [x] Canvas transition differences between different views (ternary operator)
+
+### Thu May 6 <!-- omit in toc -->
+
+- [x] [Force layout](https://observablehq.com/@dianaow/force-directed-graph-with-circle-packing/2)
+  - [x] Force layout in the gallery view
+- [x] Video
+  - [x] Finishing video script writing (The first edition)
+  - [x] 4-min demo video making
+- [x] Final review
+
+### Fri May 7 <!-- omit in toc -->
+
+- [x] Submit as the final project for MTF class by noon
+- [x] Keynote Preparing
+  - [x] Revise the script
+  - [x] Write the Promo script
+  - [x] Hire a voice actor
+  - [x] Proofreading the abstract with Jeanne
+  - [x] 1 on 1 session with Chris Bost at 01:00 AM on May 8
+
+### Sat May 8 <!-- omit in toc -->
+
+- [x] Geo component
+  - [x] Dataset and data points
+    - [x] Request bird sound data
+    - [x] Populate data into the map
+  - [x] Filters
+    - [x] Data filter by clicking items
+  - [x] Popup
+    - [x] Leaflet popup
+    - [ ] Popup styling
+    - [x] Media player
+
+### Sun May 9<!-- omit in toc -->
+
+- [ ] Panorama background with Three.js
+  - [x] On-location shooting in Xixi Museum
+  - [x] Mapping the AR comnnections
+  - [ ] reorder the items on the website
+- [ ] Prototype of the Threats and Actions view
+- [ ] the Conservation view
+  - [ ] Force layout in the conservation view
+  - [ ] 'Group by' feature in the conservation view
+  - [ ] Label of the group
+  - [ ] Color encoding of the group pack
+
+### Mon May 10<!-- omit in toc -->
+
+- [ ] New Prototype of Taxo Tree view
+- [ ] Prototype of the metadata panel in the gallery view
+- [ ] Keynote Preparing
+  - [ ] 1 on 1 session with Chris Bost at 22:00 PM
+  - [ ] Video Due: 05:00 AM on May 11 Beijing Time
+
+### Tue May 11<!-- omit in toc -->
+
+- [ ] Credit button
+  
+### No Due Date: Post-keynote Implementation <!-- omit in toc -->
+
+- [ ] Area filter above the map
+- [ ] The metadata panel in the gallery view
+- [ ] 3D globe in the map view
+- [ ] Threats and Actions view
+- [ ] Color View
+- [ ] Taxo view using Radial Tidy Tree
+- [ ] Sorting and Filter features in every view
+
+## To-do list by component
+
+- [ ] Datasets
+  - [x] **Apr 27** Modify the birdcode
+  - [x] **Apr 27** Add conservation status data
+  - [x] **Apr 27** Add common name data
+  - [x] **Apr 28** Add population trend data
+  - [x] **May 01** Using node.js to request data
+  - [x] **May 01** [Threats](https://www.iucnredlist.org/resources/threat-classification-scheme)/[Actions](https://www.iucnredlist.org/resources/conservation-actions-classification-scheme) Data
+  - [x] **May 01** Taxonomy Data
+  - [ ] Bird song Data
+  - [x] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
+- [ ] Fundamental components
+  - [ ] Menu
+    - [x] **Apr 29** Data-driven menu
+    - [x] **Apr 29** Set the `::before`, `::after` effects
+    - [x] **Apr 30** Style the menu with icons (spent a whole day)
+    - [x] **Apr 25** Set the control bar `fixed`
+    - [ ] 'Back to the gallery' button
+    - [ ] Search Function
+  - [ ] Page footer
+    - [ ] Page footer for item counts, sorting & filtering feature, preset stories
+  - [x] Webpage Layout
+    - [x] ~~Responsive Grid Layout or~~
+    - [x] **Apr 25** Embed the webpage into iframe mockup
+    - [x] **Apr 25** Resize webpage with locked aspect ratio
+    - [ ] Resize webpage for high resolution environments
+    - [x] **Apr 29** SVG overflow control => resize SVG `width` and `height` when transitions happen
+- [ ] Gallery View
+  - [x] List of the items
+    - [x] Optimize the performance of SVG image => Resize image
+  - [x] Name of the items
+    - [x] ~~Normal name instead of sci name~~
+    - [x] ~~Toggle word wrap or~~
+    - [x] **Apr 25** No labels
+  - [ ] Sorting in the gallery view
+    - [ ]  Sorting by conservation status
+    - [ ]  Color encoding in the stroke
+    - [x]  **Apr 29** Add Key Function to avoid disorder id
+    - [x]  **Apr 28** Add State management
+- [ ] **May 03** Details-on-Demand view
+  - [x] **Apr 27** Popup when hovering
+  - [ ] Panel for individual species
+    - [ ] Force layout transform in the gallery view
+    - [ ] Data construction and display strategy
+    - [ ] multi-modal: voice of birds
+  - [x] ~~The modality for entering a secondary view~~
+  - [ ] State lock of selection when views change
+- [ ] Macro-level views
+  - [ ] **May 02** Grouping View
+    - [x] **Apr 26** Learn D3 laybouts
+    - [x] **Apr 26** Hierarchical layouts
+    - [x] **May 02** Grouping by conservation status
+    - [x] **May 03** Created ordinal scale of color based on the depth of nodes
+    - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
+    - [ ] More 'Group By' options: i.e. population trends
+  - [x] Geo View
+    - [x] Get bird song data with latitude and longitude
+    - [x] List panel
+    - [x] Map component
+    - [ ] Habitat lens (waiting for the responds from BirdLife)
+  - [ ] Taxonomy View
+    - [ ] taxon node parents
+    - [ ] stratify data and layout generater
+    - [ ] data management and view transitions
+    - [ ] styling
+  - [ ] Color-sorting View
+  - [ ] **Pending** Evolution Tree: Phylogeny View
+    - [ ] Case 1: [OneZoom](http://www.onezoom.org/OZtree/static/OZLegacy/EDGE_birds.htm)
+    - [ ] Code: Right-angle phylograms and [circular dendrograms](http://bl.ocks.org/kueda/1036776) with d3
+    - [ ] BirdTree.org [phylogeny subsets](https://birdtree.org/subsets/)
+    - [ ] [iTOL](https://itol.embl.de/) Interactive Tree of Life
+    - [ ] Need more thoughts on Naive Nnalogy
+  - [ ] **May 02** Threats & Actions
+    - [ ] Data construction: from many-to-many to one-to-many relationships
+    - [x] **Apr 29** Transitions from other view
+    - [x] **Apr 29** Resize and restyle circle elements during transitions
+    - [x] **Apr 29** Change hovering behavior in different views through `swicth` conditionals
+- [x] Add Transitions to circles
+- [ ] Recognition component
+  - [ ] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
+- [ ] Accessibility
+  - [ ] `alt=''` property for buttons and pictures
+- [ ] Final touches
+- [ ] Keynote Presentation
+  - [x] Script Writing
+  - [ ] dubbing of script
+  - [ ] Video mock up
