@@ -39,7 +39,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ## Process <!-- omit in toc -->
 <!-- TOC -->
-- [Research & Design](#research--design)
+- [Research & Design (Jan)](#research--design-jan)
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
   - [Field Trip (Feb 4)](#field-trip-feb-4)
@@ -91,7 +91,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 - [To-do list by component](#to-do-list-by-component)
 <!-- /TOC -->
 
-## Research & Design
+## Research & Design (Jan)
 
 ### Brainstorming and Research Question
 
