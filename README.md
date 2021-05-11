@@ -12,7 +12,8 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 ## Preview
 
-![Image of preview](./keynote/img/slides_Page_01.png)
+![Image of preview](./pics/preview.jpg)
+![Image of preview](./pics/preview2.jpg)
 
 ## Acknowledgements
 
@@ -242,14 +243,15 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
       - [Accessories to enhance the self-explanatory and intuitive features of the atlas](#accessories-to-enhance-the-self-explanatory-and-intuitive-features-of-the-atlas)
       - [Expanding accessibility for scenarios](#expanding-accessibility-for-scenarios)
     - [Indivisual Meeting Feedback for Final Touches](#indivisual-meeting-feedback-for-final-touches)
-  - [References](#references)
+  - [Potential References](#potential-references)
     - [Histories of Natural History (Museums), Cultures of Display](#histories-of-natural-history-museums-cultures-of-display)
     - [The History of Museum Technology](#the-history-of-museum-technology)
     - [Museum Technique + DataVis](#museum-technique--datavis)
     - [Cognitive Learning](#cognitive-learning)
+    - [Field Knowledge](#field-knowledge)
     - [Case Studies](#case-studies)
     - [D3 or other examples](#d3-or-other-examples)
-    - [Field Knowledge](#field-knowledge)
+    - [Blog Articles](#blog-articles)
 - [Implementation](#implementation)
   - [Pipeline](#pipeline)
   - [Layered Interfaces](#layered-interfaces)
@@ -427,7 +429,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 1. One thing I'd really love to hear is how some of the thoughts, concepts, critical issues and our discussions we've talked about this semester have informed your work. Maybe that's something you would actually incorporate into your formal thesis video too.
 2. It's ok to be work-in-progress. And also there's no the divine law that says taht all work has to be finished to 15 week semesters. It's alright what you submit is some parts of it fleshed out, others you mentioned future plans.
 
-### References
+### Potential References
 
 #### Histories of Natural History (Museums), Cultures of Display
 
@@ -452,6 +454,13 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 
 - Hofstadter, Douglas R., and Emmanuel Sander. Surfaces and essences: Analogy as the fuel and fire of thinking. Basic Books, 2013.
 
+#### Field Knowledge
+
+- [Is gaining over 1000 new bird species a problem for conservation?](https://www.birdlife.org/worldwide/news/gaining-over-1000-new-bird-species-problem-conservation)
+- Lopes, Leonardo & Fernandes, Alexandre & Medeiros, Matthew & Marini, Miguel. (2016). A classification scheme for avian diet types. Journal of Field Ornithology. 87. 10.1111/jofo.12158.
+- [The Evolution of Hawaii's Honeycreepers](https://mindseyesketchbook.blog/2017/08/25/hawaiian-honeycreepers/)
+- [Global database of all bird species shows how body shape predicts lifestyle](https://www.sciencedaily.com/releases/2020/01/200113111149.htm)
+
 #### Case Studies
 
 - [Unlikely Avian Taxonomies](https://zoesadokierski.com/exhibitions/unlikely-avian-taxonomies)
@@ -475,10 +484,11 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [Quadtree Brush](https://observablehq.com/@d3/quadtree-brush)
 - [Quadtree Brush optimization](https://observablehq.com/@bmschmidt/quadtree-brush-optimization)
 
-#### Field Knowledge
+#### Blog Articles
 
-- [Is gaining over 1000 new bird species a problem for conservation?](https://www.birdlife.org/worldwide/news/gaining-over-1000-new-bird-species-problem-conservation)
-  
+- [From Storytelling To Scrollytelling: A Short Introduction and Beyond](https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964)
+- [Scrollytelling: Storytelling for The Next Decade](https://uxplanet.org/scrollytelling-storytelling-for-the-next-decade-45d7f19ce3a9)
+
 ## Implementation
 
 ### Pipeline
