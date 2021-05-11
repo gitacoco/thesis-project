@@ -43,9 +43,6 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
   - [Brainstorming and Research Question](#brainstorming-and-research-question)
     - [In-class feedback](#in-class-feedback)
   - [Field Trip (Feb 4)](#field-trip-feb-4)
-    - [The Museum Overview](#the-museum-overview)
-    - [the Structure of Wetland Ecosystem](#the-structure-of-wetland-ecosystem)
-    - [the Miniature Replicas of the Species in the Representative Biosphere](#the-miniature-replicas-of-the-species-in-the-representative-biosphere)
   - [Storyboard and Wireframe (Feb 18)](#storyboard-and-wireframe-feb-18)
     - [In-class Feedback](#in-class-feedback-1)
   - [Prototype](#prototype)
@@ -107,13 +104,13 @@ updated on Thu Jan 28
 
 I visited National Wetland Museum of China on Feb 4 to get some insights from settings in the real museum.
 
-#### The Museum Overview
+#### The Museum Overview <!-- omit in toc -->
 
 |   |   |   |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image of Museum](./field-trip/museum1.jpeg) | ![Image of Museum](./field-trip/museum2.jpeg) | ![Image of Museum](./field-trip/museum3.jpeg)
 
-#### the Structure of Wetland Ecosystem
+#### the Structure of Wetland Ecosystem <!-- omit in toc -->
 
 ![Image of Ecosystem](./field-trip/ecosystem.jpeg)
 
@@ -121,7 +118,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 ![Image of SpecimensWall](./field-trip/wall.jpg)
 ![Image of SpecimensWall](./field-trip/wall2.jpeg)
 
-#### the Miniature Replicas of the Species in the Representative Biosphere
+#### the Miniature Replicas of the Species in the Representative Biosphere <!-- omit in toc -->
 
 - A Micro-Landscape of the Tarim River Populus Euphratica Forest Wetland (China)
 ![Image of micro-landscape](./field-trip/micro-landscape.jpg)
