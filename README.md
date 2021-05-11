@@ -487,36 +487,37 @@ The pace is good, and tone is natural. If leave a pause after each section to le
     - [x] Data filter by clicking items
   - [x] Popup
     - [x] Leaflet popup
-    - [ ] Popup styling
     - [x] Media player
 
 ### Sun May 9<!-- omit in toc -->
 
-- [ ] Panorama background with Three.js
+- [x] Panorama background with Three.js
   - [x] On-location shooting in Xixi Museum
   - [x] Mapping the AR comnnections
-  - [ ] reorder the items on the website
-- [ ] Prototype of the Threats and Actions view
-- [ ] the Conservation view
-  - [ ] Force layout in the conservation view
-  - [ ] 'Group by' feature in the conservation view
-  - [ ] Label of the group
-  - [ ] Color encoding of the group pack
+  - [x] reorder the items on the website
+- [x] Prototype of the Threats and Actions view
 
 ### Mon May 10<!-- omit in toc -->
 
-- [ ] New Prototype of Taxo Tree view
-- [ ] Prototype of the metadata panel in the gallery view
-- [ ] Keynote Preparing
-  - [ ] 1 on 1 session with Chris Bost at 22:00 PM
-  - [ ] Video Due: 05:00 AM on May 11 Beijing Time
+- [x] New Prototype of Taxo Tree view
+- [x] Keynote Preparing
+  - ~~[ ] 1 on 1 session with Chris Bost at 22:00 PM~~
+  - [x] Video Due: 05:00 AM on May 11 Beijing Time
 
 ### Tue May 11<!-- omit in toc -->
 
 - [ ] Credit button
-  
-### No Due Date: Post-keynote Implementation <!-- omit in toc -->
+- [ ] The metadata panel in the gallery view
+- [ ] Update two prototypes to the webpage
 
+### Post-keynote Implementation <!-- omit in toc -->
+
+- [ ] Map: Popup styling
+- [ ] the Living Status view
+  - [ ] Force layout in the conservation view
+  - [ ] 'Group by' feature in the conservation view
+  - [ ] Labeling the group
+  - [ ] Color encoding of the group pack
 - [ ] Area filter above the map
 - [ ] The metadata panel in the gallery view
 - [ ] 3D globe in the map view
@@ -535,7 +536,7 @@ The pace is good, and tone is natural. If leave a pause after each section to le
   - [x] **May 01** Using node.js to request data
   - [x] **May 01** [Threats](https://www.iucnredlist.org/resources/threat-classification-scheme)/[Actions](https://www.iucnredlist.org/resources/conservation-actions-classification-scheme) Data
   - [x] **May 01** Taxonomy Data
-  - [ ] Bird song Data
+  - [x] Bird song Data
   - [x] **May 02** Request geo distribution data from [BirdLife](http://datazone.birdlife.org/species/requestdis)
 - [ ] Fundamental components
   - [ ] Menu
@@ -568,9 +569,9 @@ The pace is good, and tone is natural. If leave a pause after each section to le
 - [ ] **May 03** Details-on-Demand view
   - [x] **Apr 27** Popup when hovering
   - [ ] Panel for individual species
-    - [ ] Force layout transform in the gallery view
+    - [x] Force layout transform in the gallery view
     - [ ] Data construction and display strategy
-    - [ ] multi-modal: voice of birds
+    - ~~[ ] multi-modal: voice of birds~~
   - [x] ~~The modality for entering a secondary view~~
   - [ ] State lock of selection when views change
 - [ ] Macro-level views
@@ -579,7 +580,7 @@ The pace is good, and tone is natural. If leave a pause after each section to le
     - [x] **Apr 26** Hierarchical layouts
     - [x] **May 02** Grouping by conservation status
     - [x] **May 03** Created ordinal scale of color based on the depth of nodes
-    - [ ] force layout inside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
+    - [ ] force layout outside pack layout (related work: [Lunar Open Architecture](https://loa.mit.edu/#/Database))
     - [ ] More 'Group By' options: i.e. population trends
   - [x] Geo View
     - [x] Get bird song data with latitude and longitude
@@ -604,12 +605,12 @@ The pace is good, and tone is natural. If leave a pause after each section to le
     - [x] **Apr 29** Resize and restyle circle elements during transitions
     - [x] **Apr 29** Change hovering behavior in different views through `swicth` conditionals
 - [x] Add Transitions to circles
-- [ ] Recognition component
-  - [ ] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
+- [x] Recognition component
+  - [x] Webpage mock up: iframe page with [panorama](https://pchen66.github.io/Panolens/examples/panorama_infospot.html) background
 - [ ] Accessibility
   - [ ] `alt=''` property for buttons and pictures
 - [ ] Final touches
 - [ ] Keynote Presentation
   - [x] Script Writing
-  - [ ] dubbing of script
-  - [ ] Video mock up
+  - [x] dubbing of script
+  - [ ] promo video
