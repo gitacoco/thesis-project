@@ -63,7 +63,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
     - [Case Studies](#case-studies)
     - [D3 or other examples](#d3-or-other-examples)
     - [Blog Articles](#blog-articles)
-- [Implementation](#implementation)
+- [Implementation (Apr 20 -)](#implementation-apr-20--)
   - [Pipeline](#pipeline)
   - [Layered Interfaces](#layered-interfaces)
   - [The Gallery View](#the-gallery-view)
@@ -304,7 +304,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [From Storytelling To Scrollytelling: A Short Introduction and Beyond](https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964)
 - [Scrollytelling: Storytelling for The Next Decade](https://uxplanet.org/scrollytelling-storytelling-for-the-next-decade-45d7f19ce3a9)
 
-## Implementation
+## Implementation (Apr 20 -)
 
 ### Pipeline
 
