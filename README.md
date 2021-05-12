@@ -23,9 +23,9 @@ Finishing a thesis project from research, design, implementation and ultimately 
 
 The most important gratitude is to my supervisor and the thesis advisor **Daniel Sauter**, associate professor at Parsons School of Design, for providing guidance and myriad feedback throughout this project.
 
-Special thanks to Dr. **Xiaoru Yuan**, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
+Special thanks to Dr. **[Xiaoru Yuan](http://vis.pku.edu.cn/yuanxiaoru/index_en.html)**, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
 
-I thank Dr. **Shannon Mattern**, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the map ethically, whose brilliance, enthusiasm, empathy and conscientiousness moved me and will have a profound impact on me.
+I thank Dr. **[Shannon Mattern](https://wordsinspace.net/)**, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the map ethically, whose brilliance, enthusiasm, empathy and conscientiousness moved me and will have a profound impact on me.
 
 I would like to offer my appreciation to Dr. **Siming Chen**, director of the Visualization research group at Fudan University and to Dr. **Richen Liu**, director of the Visualization research group at Nanjing Normal University. Their suggestions and related works also greatly inspired me.
 
