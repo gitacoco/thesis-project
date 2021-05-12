@@ -2,7 +2,7 @@
 
 ## A low-cost framework for museums to expand the stories of displayed specimens<!-- omit in toc -->
 
-By [Zhibang Jiang](https://zhibang.design) | Video | [Live Demo](https://connected-species.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | Written Thesis | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
+By [Zhibang Jiang](https://zhibang.design) | Video | [Live Demo](https://connected-species.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
 
 Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design
 
@@ -16,7 +16,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 ![Image of preview](./pics/preview-AR.gif)
 ![Image of preview](./pics/preview-metadata.png)
 ![Image of preview](./pics/preview-map.png)
-![Image of preview](./pics/preview-group.png)
+![Image of preview](./pics/preview-group.png) 
 ![Image of preview](./pics/preview-lines.png)
 
 ## Acknowledgements <!-- omit in toc -->
