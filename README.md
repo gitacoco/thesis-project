@@ -13,6 +13,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 ## Preview <!-- omit in toc -->
 
 ![Image of preview](./pics/preview.jpg)
+![Image of preview](./pics/apng1.png)
 ![Image of preview](./pics/preview2.gif)
 ![Image of preview](./pics/preview3.jpg)
 ![Image of preview](./pics/preview4.jpg)
