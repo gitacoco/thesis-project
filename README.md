@@ -21,7 +21,7 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 Finishing a thesis project from research, design, implementation and ultimately to thesis writing individually is extremely challenging and the final outcome would not be possible without support from various people.
 
-The most important gratitude is to my supervisor and the thesis advisor **Daniel Sauter**, associate professor at Parsons School of Design, for providing guidance and myriad feedback throughout this project.
+The most important gratitude is to my supervisor and the thesis advisor **[Daniel Sauter](https://www.newschool.edu/parsons/faculty/daniel-sauter/)**, associate professor at Parsons School of Design, for providing guidance and myriad feedback throughout this project.
 
 Special thanks to Dr. **[Xiaoru Yuan](http://vis.pku.edu.cn/yuanxiaoru/index_en.html)**, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
 
