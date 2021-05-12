@@ -27,7 +27,7 @@ The most important gratitude is to my supervisor and the thesis advisor **[Danie
 
 Special thanks to Dr. **[Xiaoru Yuan](http://vis.pku.edu.cn/yuanxiaoru/index_en.html)**, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
 
-I thank Dr. **[Shannon Mattern](https://wordsinspace.net/)**, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the map ethically, whose enthusiasm, empathy and conscientiousness reshaped my values and will have a profound impact on me.
+I thank Dr. **[Shannon Mattern](https://wordsinspace.net/)**, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the project ethically, whose enthusiasm, empathy and conscientiousness reshaped my values and will have a profound impact on me.
 
 I would like to offer my appreciation to Dr. **[Siming Chen](http://simingchen.me/)**, director of the Visualization research group at Fudan University and to Dr. **[Richen Liu](https://dabigtou.github.io/richenliu/)**, director of the Visualization research group at Nanjing Normal University. Their suggestions and related works also greatly inspired me.
 
