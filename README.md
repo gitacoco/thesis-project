@@ -29,7 +29,7 @@ I thank Dr. Shannon Mattern, professor of anthropology at The New School for Soc
 
 I would like to offer my appreciation to Dr. Siming Chen, director of the Visualization research group at Fudan University and to Dr. Richen Liu, director of the Visualization research group at Nanjing Normal University. Their suggestions and related works also greatly inspired me.
 
-Additional appreciation to my friends and classmates' contribution during the discovery journey. Thanks to Bao Jiang at Ant Group, Jiahao Zhang at Microsoft (Suzhou), Liwenhan Xie at the Hong Kong University of Science and Technology, Min Tian and Can Liu at Peking University, Yuning Chan at Royal College of Art, and Qin Xiao at Bookuu.com for providing me generous suggestions, energy and assistance. Thanks to Lee Kuczewski and Inhye Lee for encouraging and sharing ideas with me along the way.
+Additional appreciation to my classmates and friends' contribution during the discovery journey. Thanks to Lee Kuczewski and Inhye Lee for encouraging and sharing ideas with me along the way. Thanks to Bao Jiang at Ant Group, Jiahao Zhang at Microsoft (Suzhou), Liwenhan Xie at the Hong Kong University of Science and Technology, Min Tian and Can Liu at Peking University, Yuning Chan at Royal College of Art, Zhijun Yin and Hexin Zhang at Tongji University, and Qin Xiao at Bookuu.com for providing me generous suggestions, energy and assistance.
 
 I am grateful to Richard The for bringing me into the world of museum informatics, to Aaron Hill for helping me lay the foundations for data structures, and to Christian Swinehart for starting my data visualization journey at this program.
 
