@@ -33,7 +33,7 @@ Additional thanks to my friends and classmates' contribution during the discover
 
 I am also grateful to the faculty members of this program including **[Richard The](http://www.richardthe.com/)** who brought me into the world of museum informatics, **[Aaron Hill](https://www.aaronhill.io/)** who helped me lay the foundations for data structures, and **[Christian Swinehart](https://samizdat.co/)** who started my data visualization journey at this program.
 
-Last and not least, I am deeply indebted to my parents for their finantial support for this master program and mental support during this challenging pandemic time.
+Last but not least, I am deeply indebted to my parents for their finantial support for this master program and mental support during this challenging pandemic time.
 
 ## Feedback <!-- omit in toc -->
 
