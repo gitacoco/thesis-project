@@ -21,17 +21,17 @@ The specimens nowadays on display in museums are the attempts and efforts of hum
 
 Finishing a thesis project from research, design, implementation and ultimately to thesis writing individually is extremely challenging and the final outcome would not be possible without support from various people.
 
-The most important gratitude is to my supervisor and the thesis advisor Daniel Sauter, associate professor at Parsons School of Design, for providing guidance and myriad feedback throughout this project.
+The most important gratitude is to my supervisor and the thesis advisor **Daniel Sauter**, associate professor at Parsons School of Design, for providing guidance and myriad feedback throughout this project.
 
-Special thanks to Dr. Xiaoru Yuan, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
+Special thanks to Dr. **Xiaoru Yuan**, director of the Visualization and Visual Analytics Lab at Peking University, for inspiring me the idea of applying information visualization in augmenting real objects in museums.
 
-I thank Dr. Shannon Mattern, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the map ethically, whose brilliance, enthusiasm, empathy and conscientiousness moved me and will have a profound impact on me.
+I thank Dr. **Shannon Mattern**, professor of anthropology at The New School for Social Research, for her valuable, informative, supportive and responsive critique and leading me to reflect on the map ethically, whose brilliance, enthusiasm, empathy and conscientiousness moved me and will have a profound impact on me.
 
-I would like to offer my appreciation to Dr. Siming Chen, director of the Visualization research group at Fudan University and to Dr. Richen Liu, director of the Visualization research group at Nanjing Normal University. Their suggestions and related works also greatly inspired me.
+I would like to offer my appreciation to Dr. **Siming Chen**, director of the Visualization research group at Fudan University and to Dr. **Richen Liu**, director of the Visualization research group at Nanjing Normal University. Their suggestions and related works also greatly inspired me.
 
-Additional thanks to my classmates and friends' contribution during the discovery journey. Thanks to Lee Kuczewski and Inhye Lee for encouraging and sharing ideas with me along the way. Thanks to Bao Jiang at Ant Group, Jiahao Zhang at Microsoft (Suzhou), Liwenhan Xie at the Hong Kong University of Science and Technology, Min Tian and Can Liu at Peking University, Yuning Chan at Royal College of Art, Zhijun Yin and Hexin Zhang at Tongji University, and Qin Xiao at Bookuu.com for providing me generous suggestions, energy and assistance.
+Additional thanks to my classmates and friends' contribution during the discovery journey. Thanks to **Lee Kuczewski** and **Inhye Lee** for encouraging and sharing ideas with me along the way. Thanks to **Bao Jiang** at Ant Group, **Jiahao Zhang** at Microsoft (Suzhou), **Liwenhan Xie** at the Hong Kong University of Science and Technology, **Min Tian** and **Can Liu** at Peking University, **Junlin Zhu** at Jiangnan University, **Yuning Chan** at Royal College of Art, **Zhijun Yin** and **Hexin Zhang** at Tongji University, and **Qin Xiao** at Bookuu.com for providing me generous suggestions, energy and assistance.
 
-I am also grateful to Richard The for bringing me into the world of museum informatics, to Aaron Hill for helping me lay the foundations for data structures, and to Christian Swinehart for starting my data visualization journey at this program.
+I am also grateful to **Richard The** for bringing me into the world of museum informatics, to **Aaron Hill** for helping me lay the foundations for data structures, and to **Christian Swinehart** for starting my data visualization journey at this program.
 
 Last and not least, I am deeply indebted to my parents for their finantial support for this master program and mental support during this challenging pandemic time.
 
