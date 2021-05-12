@@ -31,7 +31,7 @@ I would like to offer my appreciation to Dr. **Siming Chen**, director of the Vi
 
 Additional thanks to my classmates and friends' contribution during the discovery journey. Thanks to **Lee Kuczewski** and **Inhye Lee** for encouraging and sharing ideas with me along the way. Thanks to **Bao Jiang** at Ant Group, **Jiahao Zhang** at Microsoft (Suzhou), **Liwenhan Xie** at the Hong Kong University of Science and Technology, **Min Tian** and **Can Liu** at Peking University, **Junlin Zhu** at Jiangnan University, **Yuning Chan** at Royal College of Art, **Zhijun Yin** and **Hexin Zhang** at Tongji University, and **Qin Xiao** at Bookuu.com for providing me generous suggestions, energy and assistance.
 
-I am also grateful to **Richard The** for bringing me into the world of museum informatics, to **Aaron Hill** for helping me lay the foundations for data structures, and to **Christian Swinehart** for starting my data visualization journey at this program.
+I am also grateful to the faculty members of this program including **Richard The** who brought me into the world of museum informatics, **Aaron Hill** who helped me lay the foundations for data structures, and **Christian Swinehart** who started my data visualization journey at this program.
 
 Last and not least, I am deeply indebted to my parents for their finantial support for this master program and mental support during this challenging pandemic time.
 
