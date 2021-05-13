@@ -44,16 +44,16 @@ Last but not least, I am deeply indebted to my parents for their finantial suppo
 - Feb 18: [Daniel - In-class Feedback for the Storyboard and Wireframe](#in-class-feedback-1)
 - Mar 02: [Daniel & Classmates - In-class Feedback for the Prototypes](#in-class-feedback-2)
 - Mar 10 & 14: [Liwenhan & Yuning - External Feedback for the Prototypes](#external-discussion)
-- Mar 30: Daniel - Indivisual Meeting Feedback for the Design Refinement [editing]
+- Mar 30: Daniel - Individual Meeting Feedback for the Design Refinement [editing]
 - Apr 8: Daniel & Classmates - In-class Feedback for the Design Refinement [editing]
 - Apr 13: [Shannon & Classmates - External Feedback for the Design Solution](#feedback)
-- Apr 15: Daniel - Indivisual Meeting on the Development Process [editing]
+- Apr 15: Daniel - Individual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
 - Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#feedback-1)
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class)
-- May 04: Daniel - Indivisual Meeting on the Presentation [editing]
+- May 04: Daniel - Individual Meeting on the Presentation [editing]
 - May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
-- May 07: [Chris - Indivisual Meeting on the Presentation](#may-7-individual-meeting)
+- May 07: [Chris - Individual Meeting on the Presentation](#may-7-individual-meeting)
 - May 08: [Shannon - Feedback for the Final Atlas](#shannon-final-atlas-feedback)
 
 ## Process <!-- omit in toc -->
