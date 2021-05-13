@@ -401,6 +401,8 @@ Towards these challenges, I found several cases and tutorials that could be help
 
 ##### Guest Feedback
 
+**Alec:**
+
 - Constancy of species when views change: add transitions
 - connection to chart in spread version: hover or click ➡️ links
 - <https://merlin.allaboutbirds.org/> ➡️ color sorting
