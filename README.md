@@ -49,7 +49,7 @@ Last but not least, I am deeply indebted to my parents for their finantial suppo
 - Apr 13: [Shannon & Classmates - External Feedback for the Design Solution](#feedback)
 - Apr 15: Daniel - Individual Meeting on the Development Process [editing]
 - Apr 20: [Daniel & Alec - Guest Feedback for the Development Process](#guest-feedback)
-- Apr 28: [Shannon - Indivisual Meeting on the Final Touches](#feedback-1)
+- Apr 28: [Shannon - Individual Meeting on the Final Touches](#feedback-1)
 - May 04: [MTF Classmates - Breakout-room comments](#breakout-rooms-in-the-final-class)
 - May 04: Daniel - Individual Meeting on the Presentation [editing]
 - May 06: [Daniel, Alec & Ellie - The Feedback for the Final Review](#final-review-feedback)
