@@ -307,6 +307,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 - [the work Seb Chan has done at the Cooper Hewitt and the Australian Center for the Moving Image](https://sebchan.medium.com/)
 - [BLOGS FROM THE NATURAL HISTORY MUSEUM](https://naturalhistorymuseum.blog/category/digital-media-at-the-nhm/)
 - [the syllabi for Elaine Ayers’ classes](https://elaineayers.com/Work)
+- [The Goonies: Scrolly Landing Page](https://the-goonies.webflow.io/#home)
 
 #### D3 or other examples
 
@@ -321,6 +322,7 @@ I visited National Wetland Museum of China on Feb 4 to get some insights from se
 
 - [From Storytelling To Scrollytelling: A Short Introduction and Beyond](https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964)
 - [Scrollytelling: Storytelling for The Next Decade](https://uxplanet.org/scrollytelling-storytelling-for-the-next-decade-45d7f19ce3a9)
+-[A beginner's guide to scrollytelling](https://webflow.com/blog/scrollytelling-guide)
 
 ## Implementation (Apr 20 -)
 
