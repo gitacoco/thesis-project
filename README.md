@@ -2,13 +2,13 @@
 
 ## A low-cost framework for museums to expand the stories of displayed specimens<!-- omit in toc -->
 
-By [Zhibang Jiang](https://zhibang.design) | Video | [Live Demo](https://connected-species.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
+By [Zhibang Jiang](https://zhibang.design) | [Video](https://youtu.be/7IAh-C3Ikjs) | [Live Demo](https://connected-species.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | [Parsons 2021 Data Visualization](http://parsons.nyc/thesis-2021/)
 
 Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design
 
 ## Abstract <!-- omit in toc -->
 
-The specimens nowadays on display in museums are the attempts and efforts of human wisdom to create traces of species that once existed, to represent their appearance, and, for the species that are still here, to resist their disappearance. But there is an experiential divide between the stories offered by museums and visitors’ desire to go further, between digital interfaces and physical settings, and between developed and less developed regions. This project creates a low-cost, data-driven framework that leverages the scalability of digital media and the perceptibility of real-world objects to breathe new life into exhibits and enhance the in-person engagement in museums. The project will first focus on bird species at the National Wetland Museum of China, enhancing visitors' cognitive experience of the specimens through a digital-physical integration strategy. The future vision of the project is to open up to other species datasets and provide APIs and SDKs for further development.
+The specimens nowadays on display in museums are the attempts and efforts of human wisdom to create traces of species that once existed, to represent their appearance, and, for the species that are still here, to resist their disappearance. But there is an experiential divide between the stories offered by museums and visitors’ desire to go further, between digital interfaces and physical settings, and between developed and less developed regions. This project creates a low-cost, data-driven framework that leverages the scalability of digital media and the perceptibility of real-world objects to breathe new life into exhibits and enhance in-person engagement in museums. The project will first focus on bird species at the National Wetland Museum of China, enhancing visitors' cognitive experience of the specimens through a digital-physical integration strategy. The future vision of the project is to open up to other species datasets and provide APIs and SDKs for further development.
 
 ## Preview <!-- omit in toc -->
 
