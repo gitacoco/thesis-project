@@ -2,7 +2,7 @@
 
 ## A low-cost framework for museums to expand the stories of displayed specimens<!-- omit in toc -->
 
-By [Zhibang Jiang](https://zhibang.design) | [Video](https://youtu.be/7IAh-C3Ikjs) | [Live Demo](https://connected-species.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | [MSDV 2021 Thesis Projects](http://parsons.nyc/thesis-2021/) | [All Thesis Projects](https://parsons.nyc/thesis/)
+By [Zhibang Jiang](https://zhibang.design) | [Video](https://youtu.be/7IAh-C3Ikjs) | [Live Demo](https://connected-specimens.com/) | [Code Repo](https://github.com/gitacoco/connected_species) | [MSDV 2021 Thesis Projects](http://parsons.nyc/thesis-2021/) | [All Thesis Projects](https://parsons.nyc/thesis/)
 
 Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design
 
